@@ -1,0 +1,548 @@
+OSHPD_ID,FacilityName,FacilityType,Address,Address2,City,State,ZIP,county,FACILITY_LEVEL_DESC,TOTAL_NUMBER_BEDS,ER_SERVICE_LEVEL_DESC,FACILITY_STATUS_DESC,LICENSE_TYPE_DESC,LICENSE_CATEGORY_DESC
+306370021,SAN YSIDRO HEALTH MOUNTAIN HEALTH FAMILY MEDICINE,Clinic - Federally Qualified Health Center (FQHC),1388 BUCKMAN SPRINGS RD,,CAMPO,CA,91906,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370856,VISTA COMMUNITY CLINIC,Clinic - Federally Qualified Health Center (FQHC),1000 VALE TERRACE DR,,VISTA,CA,92084,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190782,TARZANA TREATMENT CT,Clinic - Hospital Based or Independent,1130 1/2 S HOOVER ST,,LOS ANGELES,CA,90006,Los Angeles,Parent Facility,60.0,Not Applicable,Open,Hospital,Acute Psychiatric Hospital
+306374450,NESTOR COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1016 OUTER RD,,SAN DIEGO,CA,92154,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374553,SAN DIEGO FAMILY CARE,Clinic - Federally Qualified Health Center (FQHC),7011 LINDA VISTA RD,,SAN DIEGO,CA,92111,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374260,GROSSMONT SPRING VALLEY FAMILY HLTH CTRS INC,Clinic - Federally Qualified Health Center (FQHC),8788 JAMACHA RD,,SPRING VALLEY,CA,91977,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370024,CITY HEIGHTS FAMILY HEALTH CENTERS INC,Clinic - Federally Qualified Health Center (FQHC),5454 EL CAJON BLVD,,SAN DIEGO,CA,92115,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370507,SAN YSIDRO HEALTH MATERNAL AND CHILD HEALTH CTR,Clinic - Federally Qualified Health Center (FQHC),4050 BEYER BLVD,,SAN YSIDRO,CA,92173,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374018,ST VINCENT DE PAUL VILLAGE FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1501 IMPERIAL AVE,,SAN DIEGO,CA,92101,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374160,NORTH PARK FAMILY HEALTH CENTERS,Clinic - Federally Qualified Health Center (FQHC),3544 30TH ST,,SAN DIEGO,CA,92104,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374549,CENTRO MEDICO EL CAJON,Clinic - Federally Qualified Health Center (FQHC),133 W MAIN ST STE 100,,EL CAJON,CA,92020,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374436,LEMON GROVE FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),7592 BROADWAY,,LEMON GROVE,CA,91945,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370738,LINDA VISTA HEALTH CARE CTR,Clinic - Federally Qualified Health Center (FQHC),6973 LINDA VISTA RD,,SAN DIEGO,CA,92111,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374438,LOGAN HEIGHTS FAMILY COUNSELING CENTER,Clinic - Federally Qualified Health Center (FQHC),2204 NATIONAL AVE,,SAN DIEGO,CA,92113,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306371511,NEIGHBORHOOD HEALTHCARE EL CAJON,Clinic - Federally Qualified Health Center (FQHC),855 E MADISON AVE,,EL CAJON,CA,92020,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334730,TRUECARE,Clinic - Federally Qualified Health Center (FQHC),150 VALPREDA RD,,SAN MARCOS,CA,92069,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370410,FAMILY HEALTH CTR SD NATIONAL CITY,Clinic - Federally Qualified Health Center (FQHC),1000 EUCLID AVE,,NATIONAL CITY,CA,91950,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374494,DTFHC AT CONNECTIONS,Clinic - Federally Qualified Health Center (FQHC),1250 6TH AVE STE 100,,SAN DIEGO,CA,92101,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370020,SAN YSIDRO HEALTH ALPINE FAMILY MEDICINE,Clinic - Federally Qualified Health Center (FQHC),1620 ALPINE BLVD STE 110,,ALPINE,CA,91901,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374432,SAN YSIDRO HEALTH PARADISE HILLS,Clinic - Federally Qualified Health Center (FQHC),2400 E 8TH ST STE A,,NATIONAL CITY,CA,91950,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374164,NEIGHBORHOOD HEALTHCARE LAKESIDE,Clinic - Federally Qualified Health Center (FQHC),10039 VINE ST,,LAKESIDE,CA,92040,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374534,HILLCREST FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),4094 4TH AVE,,SAN DIEGO,CA,92103,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374031,VISTA COMMUNITY CLINIC GRAPEVINE,Clinic - Federally Qualified Health Center (FQHC),134 GRAPEVINE RD,,VISTA,CA,92083,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370936,MID-CITY COMMUNITY CLINIC,Clinic - Federally Qualified Health Center (FQHC),4290 POLK AVE,,SAN DIEGO,CA,92105,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374448,CENTRO MEDICO ESCONDIDO,Clinic - Federally Qualified Health Center (FQHC),1121 E WASHINGTON AVE,,ESCONDIDO,CA,92025,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374093,NEIGHBORHOOD HEALTHCARE GRAND AVE,Clinic - Federally Qualified Health Center (FQHC),1001 E GRAND AVE,,ESCONDIDO,CA,92025,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370412,FAMILY HEALTH CENTER FOR OLDER ADULTS,Clinic - Hospital Based or Independent,3420 COLLEGE AVE,,SAN DIEGO,CA,92115,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306244051,CASTLE FAMILY HEALTH CENTER, ,3605 Hospital Road,,Atwater,CA,95301,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306382711,NORTH EAST MEDICAL SERVICES, ,1520 Stockton Street,,San Francisco,CA,94133,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370813,LOGAN HEIGHTS FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2204 NATIONAL AVE,,SAN DIEGO,CA,92113,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374565,SAN YSIDRO HEALTH SOUTH BAY,Clinic - Federally Qualified Health Center (FQHC),330 E 8TH ST,,NATIONAL CITY,CA,91950,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306371226,SAN YSIDRO HEALTH OTAY,Clinic - Federally Qualified Health Center (FQHC),1637 3RD AVE STE H,,CHULA VISTA,CA,91911,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197886,PAISLEY WELLNESS CENTER,Clinic - Free Standing,16776 BERNARDO CENTER DR,STE 211,SAN DIEGO,CA,92128,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370876,IMPERIAL BEACH HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),949 PALM AVE,,IMPERIAL BEACH,CA,91932,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306130785,AIM WELLNESS CENTER,Clinic - Free Standing,444 S CEDROS AVE,STE 120,SOLANA BEACH,CA,92075,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306371581,SAN DIEGO AMERICAN INDIAN HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2630 1ST AVE,,SAN DIEGO,CA,92103,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106434032,BEHAVIORAL HEALTH WORKS, ,5755 OBERLIN DR STE 300,,SAN DIEGO,CA,92121,San Diego ,Parent Facility,133.0,Not Applicable,Open,Hospital,Acute Psychiatric Hospital
+306370378,NEIGHBORHOOD HEALTHCARE GOLD FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),13010 POWAY RD,,POWAY,CA,92064,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197169,SOUTHERN CALIFORNIA LIVER CENTERS INC, ,131 ORANGE AVE STE 101,,CORONADO,CA,92118,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206190643,NORTHRIDGE EYE CARE, ,530 Main Street,,Red Bluff,CA,96080,Tehama,Parent Facility,97.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+206121030,CHIROPRACTIC REHABILITATION WELLNESS CENTER,Clinic - Free Standing,115 MAIN ST,,VISTA,CA,92084,San Diego ,Parent Facility,60.0,Not Applicable,Suspense,Long Term Care Facility,Skilled Nursing Facility
+306344143,UNIVERSITY EYE CENTER, ,230 Minor Hall,,Berkeley,CA,94720,Alameda,Parent Facility,,Not Applicable,Open,Clinic,Chronic Dialysis Clinic
+306374180,VISTA COMMUNITY CLINIC PIER VIEW WAY,Clinic - Federally Qualified Health Center (FQHC),818 PIER VIEW WAY,,OCEANSIDE,CA,92054,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374295,VISTA COMMUNITY CLINIC HORNE STREET,Clinic - Federally Qualified Health Center (FQHC),517 N HORNE ST,,OCEANSIDE,CA,92054,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306100771,UNITED HEALTH CENTERS SAN JOAQUIN VALLEY, ,1790 E Manning Avenue,,Reedley,CA,93654,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306191356,SOUTH CENTRAL FAMILY CENTER, ,4411 S Central Avenue,,Los Angeles,CA,90011,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306191103,QUEENSCARE HEALTH CENTERS, ,150 N Reno Street,,Los Angeles,CA,90026,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306100373,FAMILY HEALTHCARE NETWORK, ,2333 S Mooney Boulevard,,Visalia,CA,93277,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106381154,UCSF MEDICAL CTR,Clinic - Other,400 PARNASSUS AVE,MCB 300,SAN FRANCISCO,CA,94143,San Francisco,Parent Facility,559.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406196202,FACEY MEDICAL GROUP, ,11333 Sepulveda Boulevard,,Mission Hills,CA,91345,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+306190479,UNICARE COMMUNITY HEALTH CENTER, ,308 N La Cadena Drive,,Colton,CA,92324,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190751,LOS ANGELES CHRISTIAN HEALTH CENTERS, ,325 E 7th Street,,Los Angeles,CA,90014,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306100515,OMNI FAMILY HEALTH, ,141 S Mirage Avenue,,Lindsay,CA,93247,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197306,ST JOHNS WELL CHILD  FAMILY CENTER, ,808 W 58th Street,,Los Angeles,CA,90037,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106301188,OC ANAHEIM MEDICAL CENTER-OCAL,Hospital Inpatient,3440 E LA PALMA AVE,,ANAHEIM,CA,92806,Orange,Parent Facility,189.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106191228,LOS ANGELES MEDICAL CENTER-LAL,Hospital Inpatient,4867 W SUNSET BLVD,,LOS ANGELES,CA,90027,Los Angeles,Parent Facility,676.0,Emergency - Comprehensive,Open,Hospital,General Acute Care Hospital
+406564132,MAXIM HEALTHCARE SERVICES HOLDINGS INC, ,2141 PALOMAR AIRPORT RD,STE 350,CARLSBAD,CA,92011,San Diego ,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+406197313,DYNAMIC HEALTHCARE, ,9955 LOWER AZUSA RD,STE 101,TEMPLE CITY,CA,91780,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+106410782,SAN MARCOS MEDICAL CENTER-SMAL,Hospital Inpatient,360 RUSH DR,,SAN MARCOS,CA,92078,San Diego ,Parent Facility,167.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406414169,PURE HEALTH ALLIANCE, ,4638 PARK BLVD,,SAN DIEGO,CA,92116,San Diego ,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306190723,"SOCAL THERAPY CENTER, INC", ,19720 VENTURA BLVD,STE C,WOODLAND HILLS,CA,91364,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Rehabilitation Clinic
+306574014,SANDI CLINIC, ,60 ALTA ST,STE 103,ARCADIA,CA,91006,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406195575,HEALTH COMPASS, ,318 S DETROIT ST,STE 114,LOS ANGELES,CA,90036,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306214057,IRVINE HEALTH CENTER, ,5500 TRABUCO RD,STE 100,IRVINE,CA,92620,Orange,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106014233,CHENGS MEDICAL CENTER, ,320 W VALLEY BLVD,,ALHAMBRA,CA,91803,Los Angeles,Parent Facility,130.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306344027,COMMUNITY HEALTH PARTNERS, ,2755 Herndon Ave.,,Clovis,CA,93611,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106100797,ADVENTIST HEALTH - REEDLEY CYPRESS,Clinic - Rural Health,372 W. Cypress Ave.,,Reedley,CA,93654,Fresno,Parent Facility,49.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+306194050,EASTLAND MEDICAL GROUP, ,1777 N BELLFLOWER BLVD,STE 114,LONG BEACH,CA,90815,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197912,TOTAL WELLNESS CENTER, ,5911 HEIL AVE,STE E,HUNTINGTON BEACH,CA,92649,Orange,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306154163,TARGET CLINIC - BAKERSFIELD,Clinic - Other,9100 ROSEDALE HWY,,BAKERSFIELD,CA,93312,Kern,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406196636,BENE HEALTHCARE INC, ,623 W DUARTE RD,STE 2,ARCADIA,CA,91007,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+106254005,VO MEDICAL CENTER, ,222 E Cole Boulevard,,Calexico,CA,92231,Imperial,Parent Facility,58.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+406191957,HOLISTIC HEALING HANDS INC, ,3153 LOS FELIZ BLVD,,LOS ANGELES,CA,90039,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+306200640,CAMARENA HEALTH - ALMOND CAMPUS MEDICAL,Clinic - Federally Qualified Health Center (FQHC),740 E. Almond Ave.,,Madera,CA,93637,Madera,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306240945,GOLDEN VALLEY HEALTH CTR MERCED,Clinic - Federally Qualified Health Center (FQHC),847 WEST CHILDS AVE,,MERCED,CA,95341,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306444023,CLINICA DEL VALLE DEL PAJARO,Clinic - Federally Qualified Health Center (FQHC),45 NEILSON ST,,WATSONVILLE,CA,95076,Santa Cruz,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306430707,ALISAL HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),559 E ALISAL ST,STE 201,SALINAS,CA,93905,Monterey,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306400506,COMMUNITY HEALTH CENTER AT TEMPLETON,Clinic - Federally Qualified Health Center (FQHC),1330 LAS TABLAS RD,,TEMPLETON,CA,93465,San Luis Obispo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306270355,ONE MEDICAL GROUP,Clinic - Other,110 SUTTER ST,FL 6,SAN FRANCISCO,CA,94104,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306204032,CAMARENA HEALTH - I STREET, ,509 S. I St. C,,Madera,CA,93637,Madera,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306240787,LIVINGSTON COMMUNITY HEALTH CAMPUS,Clinic - Federally Qualified Health Center (FQHC),600 B ST,STE B,LIVINGSTON,CA,95334,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306271848,CLINICA DE SALUD DEL VALLE DE SALINAS SOLEDAD,Clinic - Federally Qualified Health Center (FQHC),799 FRONT ST,,SOLEDAD,CA,93960,Monterey,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306394057,ENCINO HEALTH CENTER, ,16101 VENTURA BLVD,STE 328,ENCINO,CA,91436,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106270744,COMMUNITY HOSPITAL THE MONTEREY PENINSULA PHYSICIANS,Hospital Inpatient,23625 HOLMAN HWY,,MONTEREY,CA,93940,Monterey,Parent Facility,258.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306197151,VALLEY HEALTH CTR TULLY,Clinic - Other,500 TULLY RD,,SAN JOSE,CA,95111,Santa Clara,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306244010,GOLDEN VALLEY HEALTH CTR MERCED WOMEN'S HEALTH,Clinic - Federally Qualified Health Center (FQHC),797 WEST CHILDS AVE,,MERCED,CA,95341,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406362668,DOLE HEALTH CARE INC, ,7138 SHOUP AVE,STE B4,WEST HILLS,CA,91307,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+206190267,ROSEMEAD HEALTHCARE CENTER, ,4116 ROSEMEAD BLVD,,ROSEMEAD,CA,91770,Los Angeles,Parent Facility,99.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306400587,COMMUNITY HEALTH CENTERS LOS ROBLES,Clinic - Federally Qualified Health Center (FQHC),416 A SPRING ST,,PASO ROBLES,CA,93446,San Luis Obispo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306440769,EAST CLIFF FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1510 CAPITOLA RD,,SANTA CRUZ,CA,95062,Santa Cruz,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306242279,GOLDEN VALLEY HEALTH CTR LOS BANOS,Clinic - Federally Qualified Health Center (FQHC),821 TEXAS AVE,,LOS BANOS,CA,93635,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106240942,MERCY MEDICAL CTR MERCED,Clinic - Rural Health,315 E 13TH ST,,MERCED,CA,95341,Merced,Parent Facility,186.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306370724,HOPE MEDICAL CLINIC, ,3327 SAN GABRIEL BLVD,STE A,ROSEMEAD,CA,91770,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406191776,ATLANTIC HEALTHCARE INC, ,901 E VALLEY BLVD,,SAN GABRIEL,CA,91776,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306441847,SANTA CRUZ WOMEN'S HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),250 LOCUST ST,,SANTA CRUZ,CA,95060,Santa Cruz,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406195857,HAZEL HEALTH SERVICES, ,10775 PIONEER TRL,STE 215,TRUCKEE,CA,96161,Nevada,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306400680,COMMUNITY HEALTH CENTERS SAN MIGUEL,Clinic - Federally Qualified Health Center (FQHC),1385 MISSION STREET,,SAN MIGUEL,CA,93451,San Luis Obispo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306441852,SALUD PARA LA GENTE,Clinic - Federally Qualified Health Center (FQHC),204 E BEACH ST,,WATSONVILLE,CA,95076,Santa Cruz,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306244048,GOLDEN VALLEY HEALTH CENTER NORTHVIEW,Clinic - Federally Qualified Health Center (FQHC),3940 SANDPIPER AVE,,MERCED,CA,95340,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306330755,PLAZITA MEDICAL CLINIC, ,1150 MAIN ST,STE 3,WATSONVILLE,CA,95076,Santa Cruz,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306544054,IMG - OROSI FAMILY MEDICAL CARE,Clinic - Rural Health,12683 Avenue 416,,Orosi,CA,93647,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106540816,ADVENTIST HEALTH - HURON,Clinic - Rural Health,16916 5th St,,Huron,CA,93234,Fresno,Parent Facility,108.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306104069,"CENTRAL VALLEY INDIAN HEALTH CLINIC, PRATHER",Clinic - Indian Health Service Facility,29369 Auberry Rd. 102,,Prather,CA,93651,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306100650,FRESNO AMERICAN INDIAN HEALTH PROJECT,Clinic - Federally Qualified Health Center (FQHC),1551 E. Shaw Ave. 139,,Fresno,CA,93710,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106164029,ADVENTIST HEALTH - HANFORD,Clinic - Rural Health,1025 N. Douty St.,,Hanford,CA,93230,Kings,Parent Facility,173.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306544101,FAMILY HEALTHCARE NETWORK - VISALIA OAK,Clinic - Federally Qualified Health Center (FQHC),400 E. Oak Ave.,,Visalia,CA,93291,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206010953,ADVANCED HEALTH & WELLNESS CENTER, ,24868 APPLE ST,STE 101,SANTA CLARITA,CA,91321,Los Angeles,Parent Facility,166.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306164041,ARIA COMMUNITY HEALTH CENTER - STRATFORD,Clinic - Federally Qualified Health Center (FQHC),20326 Main St,,Stratford,CA,93266,Kings,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306105106,NORTH MARKS MEDICAL CLINIC,Clinic - Federally Qualified Health Center (FQHC),4011 N. Marks Ave.,,Fresno,CA,93722,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197914,VALLEY HEALTH TEAM-DINUBA COMMUNITY HEALTH CENTERS,Clinic - Federally Qualified Health Center (FQHC),888 N. Alta Ave.,,Dinuba,CA,93618,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306105101,CENTRAL VALLEY INDIAN HEALTH INC.-HERNDON AVENUE,Clinic - Indian Health Service Facility,2740 Herndon Ave.,,Clovis,CA,93611,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306100777,PLANNED PARENTHOOD MAR MONTE- FULTON STREET HLTH CENTER,Clinic - Other,650 N. Fulton St.,,Fresno,CA,93728,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106100793,ADVENTIST HEALTH - KERMAN,Clinic - Rural Health,1000 S. Madera Ave.,,Kerman,CA,93630,Fresno,Consolidated Facility,62.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+306164036,ARIA COMMUNITY HEALTH CENTER - LEMOORE 209,Clinic - Federally Qualified Health Center (FQHC),209 C St.,,Lemoore,CA,93245,Kings,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206331371,VISALIA HEALTH CARE CENTER,Clinic - Federally Qualified Health Center (FQHC),2611 N. Dinuba Blvd.,,Visalia,CA,93291,Tulare,Parent Facility,59.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306196123,FAMILY HEALTHCARE CENTER, ,3150 E IMPERIAL HWY,STE 200,LYNWOOD,CA,90262,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106481357,ORCHARD MEDICAL CENTER,Clinic - Federally Qualified Health Center (FQHC),555 Sixth St.,,Orange Cove,CA,93646,Fresno,Parent Facility,154.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+206431104,"RENEW BEHAVIORAL HEALTH, INC", ,4000 LONG BEACH BLVD,STE 228,LONG BEACH,CA,90807,Los Angeles,Parent Facility,116.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+406300134,ONE HEALTHCARE, ,1184 N EUCLID ST,,ANAHEIM,CA,92801,Orange,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306244049,CASTLE FAMILY HEALTH CENTER AT CASTLE,Clinic - Federally Qualified Health Center (FQHC),3605 HOSPITAL RD,,ATWATER,CA,95301,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306220485,COMMUNITY HEALTH CENTERS OF AMERICA  LIVINGSTON, ,517 Main St,Ste A,Livingston,CA,95334,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106274043,NATIVIDAD MEDICAL GROUP, ,1441 CONSTITUTION BLVD,BLDG 200 STE 105,SALINAS,CA,93906,Monterey,Parent Facility,172.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306105140,CENTRAL VALLEY INDIAN HEALTH- BULLARD,Clinic - Indian Health Service Facility,255 W. Bullard Ave. 109,,Clovis,CA,93612,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306244001,GOLDEN VALLEY HEALTH CTR DOS PALOS,Clinic - Federally Qualified Health Center (FQHC),1405 CALIFORNIA AVE,,DOS PALOS,CA,93620,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197832,SOLEDAD MEDICAL CLINIC,Clinic - Rural Health,600 MAIN ST,,SOLEDAD,CA,93960,Monterey,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190170,CHILDRENS HOSPITAL LOS ANGELES MEDICAL GRP, ,4650 W SUNSET BLVD,,LOS ANGELES,CA,90027,Los Angeles,Parent Facility,438.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306200087,PLANNED PARENTHOOD MAR MONTE FRESNO,Clinic - Other,650 N FULTON ST,,FRESNO,CA,93728,Fresno,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306240492,CASTLE FAMILY HEALTH CENTER AT WINTON,Clinic - Federally Qualified Health Center (FQHC),6029 N WINTON WAY,,WINTON,CA,95388,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306014350,PLANNED PARENTHOOD SEASIDE,Clinic - Other,625 HILBY AVE,,SEASIDE,CA,93955,Monterey,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197778,SEASIDE FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1156 FREMONT BLVD,,SEASIDE,CA,93955,Monterey,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306271905,BIG SUR HEALTH CENTER,Clinic - Rural Health,46896 HIGHWAY 1,,BIG SUR,CA,93920,Monterey,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306494100,VALLEY HEALTH CTR ALEXIAN,Clinic - Other,2101 ALEXIAN DR,,SAN JOSE,CA,95116,Santa Clara,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306124043,PLANNED PARENTHOOD MERCED,Clinic - Other,3166 COLLINS DR,,MERCED,CA,95348,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306351812,SAN BENITO HEALTH FOUNDATION,Clinic - Federally Qualified Health Center (FQHC),351 FELICE DR,,HOLLISTER,CA,95023,San Benito,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306240354,DELHI HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),16233 KING ST,,DELHI,CA,95315,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306244061,WOLVES WELLNESS CTR,Clinic - Federally Qualified Health Center (FQHC),1617 MAIN ST,,LIVINGSTON,CA,95334,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306400020,COMMUNITY HEALTH CENTERS ATASCADERO,Clinic - Federally Qualified Health Center (FQHC),7512 MORRO RD,# 7516,ATASCADERO,CA,93422,San Luis Obispo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306304556,PREGNANCY RESOURCE CENTER  WATSONVILLE,Hospital Outpatient,55 BRENNAN ST,RM 201,WATSONVILLE,CA,95076,Santa Cruz,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306404090,CENTRAL COAST ONCOLOGY & HEMATOLOGY, ,1669 DOMINICAN WAY,,SANTA CRUZ,CA,95065,Santa Cruz,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306164031,COMMUNITY HEALTH CENTERS CAMBRIA,Clinic - Federally Qualified Health Center (FQHC),1276 Tamsen St,,Cambria,CA,93428,San Luis Obispo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306242217,GOLDEN VALLEY HEALTH CTR PLANADA,Clinic - Federally Qualified Health Center (FQHC),9235 E BROADWAY ST,,PLANADA,CA,95365,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306244038,GOLDEN VALLEY HEALTH CTR LE GRAND,Clinic - Federally Qualified Health Center (FQHC),13161 JEFFERSON ST,,LE GRAND,CA,95333,Merced,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306274015,CLINICA DE SALUD DEL VALLE DE SALINAS GREENFIELD,Clinic - Federally Qualified Health Center (FQHC),808 OAK AVE,,GREENFIELD,CA,93927,Monterey,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190555,CEDARS-SINAI MEDICAL CENTER, ,8635 W 3RD ST STE 590W,,LOS ANGELES,CA,90048,Los Angeles,Parent Facility,915.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106560501,COMMUNITY MEMORIAL HOSPITAL (CMH),Clinic - Free Standing,147 N BRENT ST,,VENTURA,CA,93003,Ventura,Parent Facility,25.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+106560481,VENTURA COUNTY MEDICAL CENTER (VCMC), ,300 HILLMONT AVE,,VENTURA,CA,93003,Ventura,Parent Facility,180.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306197981,SAN FERNANDO COMMUNITY HEALTH CENTER - LMG,Clinic - Federally Qualified Health Center (FQHC),732 Mott St. 100,,San Fernando,CA,91340,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196981,CENTRAL NEIGHBORHOOD HEALTH FOUNDATION - GCMG,Clinic - Federally Qualified Health Center (FQHC),2710 W. Manchester Blvd.,,Inglewood,CA,90305,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206190371,MOLINA- AHF LONG BEACH HEALTHCARE CENTER, ,3500 E. Pacific Coast Hwy.,,Long Beach,CA,90804,Los Angeles,Parent Facility,154.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306190817,MOLINA-VENICE FAMILY CLINIC,Clinic - Federally Qualified Health Center (FQHC),905 Venice Blvd.,,Venice,CA,90291,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190669,HERALD CHRISTIAN HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),923 S. San Gabriel Blvd.,,San Gabriel,CA,91776,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344093,PLANNED PARENTHOOD MAR MONTE - EASTLAND PLAZA HEALTH CENTER,Clinic - Other,678 N. Wilson Way. G,,Stockton,CA,95205,San Joaquin,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190773,COMPREHENSIVE AUTISM CENTER INC, ,26720 YNEZ CT,,TEMECULA,CA,92591,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406361387,HEALTH SERVICE ALLIANCE,Clinic - Federally Qualified Health Center (FQHC),13193 CENTRAL AVE,STE 100,CHINO,CA,91710,San Bernardino,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306364196,SAC HEALTH SYSTEM,Clinic - Federally Qualified Health Center (FQHC),82934 CIVIC CENTER DR,,INDIO,CA,92201,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306564045,JURUPA VALLEY COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),8876 MISSION BLVD,,JURUPA VALLEY,CA,92509,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306544058,FAMILY HEALTHCARE NETWORK - PORTERVILLE,Clinic - Federally Qualified Health Center (FQHC),1107 W. Poplar Ave.,,Porterville,CA,93257,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306404035,PALM SPRINGS COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),191 N SUNRISE WAY,,PALM SPRINGS,CA,92262,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306151071,POMONA COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1450 E HOLT AVE,,POMONA,CA,91767,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334009,BARBARA SINATRA CHILDRENS CENTER, ,39000 BOB HOPE DR,,RANCHO MIRAGE,CA,92270,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Psychology Clinic
+406420518,SAVAS HEALTH, ,81812 DR CARREON BLVD,STE D,INDIO,CA,92201,Riverside,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306334568,INNERCARE MECCA,Clinic - Federally Qualified Health Center (FQHC),91275 66TH AVE,STE 500,MECCA,CA,92254,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306404078,MAIN CAMPUS COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),26600 CACTUS AVE,STE 300,MORENO VALLEY,CA,92555,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306124044,CORONA COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2813 S MAIN ST,,CORONA,CA,92882,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306010715,MORONGO BASIN COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),58375 29 PALMS HWY,,YUCCA VALLEY,CA,92284,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198038,CENTRAL CITY COMMUNITY HEALTH CENTER INC,Clinic - Federally Qualified Health Center (FQHC),1860 HAMNER AVE,,NORCO,CA,92860,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334650,UNIVERSITY COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2933 UNIVERSITY AVE,,RIVERSIDE,CA,92507,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306494131,MORENO VALLEY COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),23520 CACTUS AVE,,MORENO VALLEY,CA,92553,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197162,ROSEWOOD COUNSELING CENTER, ,288 W 9TH ST,,UPLAND,CA,91786,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Psychology Clinic
+306334582,CENTRO MEDICO CATHEDRAL CITY,Clinic - Federally Qualified Health Center (FQHC),69175 RAMON RD,BLDG A,CATHEDRAL CITY,CA,92234,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306414146,RAVENSWOOD FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1885 BAY RD,,E PALO ALTO,CA,94303,Santa Clara,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197581,RIVERBANK COMMUNITY HLTH CENTER,Clinic - Rural Health,2603 Patterson Rd. 3,,Riverbank,CA,95367,Stanislaus,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206342258,FAIR OAKS HEALTH CENTER, ,2710 MIDDLEFIELD RD.,,REDWOOD CITY,CA,94063,San Mateo,Parent Facility,149.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+106410852,MILLS PENINSULA MEDICAL CENTER,SNF Inpatient,1501 TROUSDALE AVE,,BURLINGAME,CA,94010,San Mateo,Parent Facility,241.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306540020,ALTURA CENTERS FOR HEALTH,Clinic - Federally Qualified Health Center (FQHC),1101 N. Cherry St.,,Tulare,CA,93274,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406196795,UPWARD HEALTH OF CALIFORNIA, ,470 NOOR AVE,STE 1057,SOUTH SAN FRANCISCO,CA,94080,San Mateo,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+306197701,BARTZ-ALTADONNA COMMUNITY HEALTH CENTER - LANCASTER - HDMG,Clinic - Federally Qualified Health Center (FQHC),43322 Gingham Ave. 105,,Lancaster,CA,93535,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306414140,GARDNER PACKARD CHILDRENS HEALTH C,Clinic - Federally Qualified Health Center (FQHC),3351 EL CAMINO REAL,STE 100,ATHERTON,CA,94027,San Mateo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306430368,VISTA CENTER FOR THE BLIND AND VISU, ,2500 EL CAMINO REAL,STE 100,PALO ALTO,CA,94306,Santa Clara,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306104012,ESCALON COMMUNITY HLTH CENTER,Clinic - Rural Health,2080 Mchenry Ave. 200,,Escalon,CA,95320,San Joaquin,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306380891,MISSION NEIGHBORHOOD HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),240 SHOTWELL ST,,SAN FRANCISCO,CA,94110,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306384183,MISSION BERNAL CLINICS, ,1580 VALENCIA ST,STE 508,SAN FRANCISCO,CA,94110,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190026,VALLEY COMPREHENSIVE MEDICAL GROUP, ,81719 DR CARREON BLVD,STE A,INDIO,CA,92201,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306330022,RIVERSIDE NEIGHBORHOOD HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),7140 INDIANA AVE,,RIVERSIDE,CA,92504,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306191050,ONE LIFE COUNSELING CENTER, ,1303 SAN CARLOS AVE,,SAN CARLOS,CA,94070,San Mateo,Parent Facility,,Not Applicable,Open,Clinic,Psychology Clinic
+306334692,DESERT HOT SPRINGS COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),66675 PIERSON BLVD,,DESERT HOT SPRINGS,CA,92240,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334508,CENTRO MEDICO COMMUNITY CLINIC,Clinic - Federally Qualified Health Center (FQHC),1303 W 6TH ST,STE 105,CORONA,CA,92882,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334647,MAGNOLIA COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),9380 MAGNOLIA AVE,,RIVERSIDE,CA,92503,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106364231,ARROWHEAD REGIONAL MEDICAL CENTER CARDIO CLINIC, ,400 N PEPPER AVE,,COLTON,CA,92324,San Bernardino,Parent Facility,456.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106334487,RIVERSIDE UNIVERSITY HEALTH SYSTEM MEDICAL CENTER, ,1297 W HOBSONWAY,,BLYTHE,CA,92225,Riverside,Parent Facility,362.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306364366,INLAND FAMILY COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),665 N D ST,,SAN BERNARDINO,CA,92401,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106331168,EISENHOWER MEDICAL CENTER, ,67780 E PALM CANYON DR,,CATHEDRAL CITY,CA,92234,Riverside,Parent Facility,437.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306190791,ALAV MEDICAL CORPORATION, ,16465 SIERRA LAKES PKWY,STE 200,FONTANA,CA,92336,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306580711,H STREET CLINIC,Clinic - Federally Qualified Health Center (FQHC),1329 N H ST,,SAN BERNARDINO,CA,92405,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334054,DESERT AIDS PROJECT,Clinic - Federally Qualified Health Center (FQHC),1695 N SUNRISE WAY,STE 203,PALM SPRINGS,CA,92262,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197671,PARKTREE COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2680 E RIVERSIDE DR,,ONTARIO,CA,91761,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406484064,WOMENS COMPREHENSIVE HEALTH CENTER, ,705 E VIRGINIA WAY,STE I,BARSTOW,CA,92311,San Bernardino,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+406193441,FAMILY HORIZONS INC, ,10737 LAUREL ST,STE 220,RANCHO CUCAMONGA,CA,91730,San Bernardino,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+106331314,RIVERSIDE UNIVERSITY HEALTH SYSTEM, ,26520 CACTUS AVE,,MORENO VALLEY,CA,92555,Riverside,Distinct Part Facility,77.0,,Open,Hospital,General Acute Care Hospital
+306334745,INNERCARE COACHELLA,Clinic - Federally Qualified Health Center (FQHC),50249 CESAR CHAVEZ ST,STE K,COACHELLA,CA,92236,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197993,HEALTHRIGHT 360,Clinic - Federally Qualified Health Center (FQHC),1563 MISSION STREET,,SAN FRANCISCO,CA,94103,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306270532,COLTON URGENT CARE,Licensed Freestanding Emergency Medical Facility,1181 N MT VERNON AVE,,COLTON,CA,92324,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374493,FAMILY HEALTH CENTER RHC,Clinic - Rural Health,41820 GARSTIN DR,,BIG BEAR LAKE,CA,92315,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306461280,SOUTHERN SIERRA MEDICAL CLINIC, ,105 E SYDNOR AVE,,RIDGECREST,CA,93555,Kern,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106361246,LOMA LINDA UNIVERSITY MEDICAL CENTER, ,1710 BARTON RD,,REDLANDS,CA,92373,San Bernardino,Parent Facility,320.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306364261,WHITNEY YOUNG FAMILY HEALTH CLINIC,Clinic - Federally Qualified Health Center (FQHC),1755 W MAPLE ST,,SAN BERNARDINO,CA,92411,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306360625,BLOOMINGTON COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),18651 VALLEY BLVD,,BLOOMINGTON,CA,92316,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306214028,ICLASS TREATMENT CENTER INC, ,1850 N RIVERSIDE AVE,STE 180,RIALTO,CA,92376,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306330709,INTEGRATED HEALTH AND WELLNESS CENTERS, ,41197 GOLDEN GATE CIR,STE 205,MURRIETA,CA,92562,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406197076,MD CARE PROVIDERS INC, ,975 ST JOHN PL,STE A,HEMET,CA,92543,Riverside,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+106060870,HOLT MEDICAL CENTER, ,5153 HOLT BLVD,STE B1,MONTCLAIR,CA,91763,San Bernardino,Parent Facility,48.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+306454051,MORENO VALLEY FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),22675 ALESSANDRO BLVD,,MORENO VALLEY,CA,92553,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406193486,WEST POINT MEDICAL CENTER,Licensed Freestanding Emergency Medical Facility,7774 CHERRY AVE,,FONTANA,CA,92336,San Bernardino,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+106070990,KAISER FOUNDATION HOSPITAL - WALNUT CREEK,Hospital Inpatient,1425 S MAIN ST,,WALNUT CREEK,CA,94596,Contra Costa,Parent Facility,249.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406190093,CAREXUS HEALTHCARE SERVICES INC, ,809 FREMONT AVE,,LOS ALTOS,CA,94024,Santa Clara,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306013649,ANZA COMMUNITY HEALTH,Clinic - Federally Qualified Health Center (FQHC),58581 HIGHWAY 371,STE H,ANZA,CA,92539,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106331194,HEMET HEART MEDICAL CENTER, ,1275 E LATHAM AVE,STE A,HEMET,CA,92543,Riverside,Parent Facility,327.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306414155,CHINESE HOSPITAL GELLER HEALTH SERV, ,845 JACKSON,STE B1,SAN FRANCISCO,CA,94133,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306420614,FAMILY VISION CENTER, ,15888 MAIN ST,STE 112A,HESPERIA,CA,92345,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106074097,KAISER FOUNDATION HOSPITAL - ANTIOCH,Hospital Inpatient,4501 SAND CREEK RD,,ANTIOCH,CA,94531,Contra Costa,Parent Facility,150.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306380367,LYON MARTIN COMMUNITY HEALTH SERVIC, ,1735 MISSION ST,,SAN FRANCISCO,CA,94103,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306434097,CHILDREN'S HEALTH COUNCIL, ,2280 KENWOOD AVE,,SAN JOSE,CA,95128,Santa Clara,Parent Facility,,Not Applicable,Open,Clinic,Psychology Clinic
+306384222,INSTITUTE ON AGING, ,2480 MISSION ST,,SAN FRANCISCO,CA,94118,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406194903,BRIDGES TO WELLNESS, ,801 GATEWAY BLVD,,SOUTH SAN FRANCISCO,CA,94080,San Mateo,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+206010972,APEX HEALTHCARE MEDICAL CENTER, ,1515 W FLORIDA AVE,,HEMET,CA,92543,Riverside,Parent Facility,124.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+406197146,UPPERLINE HEALTHCARE CALIFORNIA PC, ,308 W 6TH ST,STE 205,CORONA,CA,92882,Riverside,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+206190674,ABOVE URGENT CARE CENTER,Licensed Freestanding Emergency Medical Facility,8891 CENTRAL AVE,STE A,MONTCLAIR,CA,91763,San Bernardino,Parent Facility,96.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+406191971,INFINITY HEALTH CARE INC, ,10132 CAMULOS AVE,,MONTCLAIR,CA,91763,San Bernardino,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306100021,SAN JACINTO HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),651 N STATE ST,STE 5,SAN JACINTO,CA,92583,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334656,CORONA VISION CENTER, ,734 N MAIN ST,,CORONA,CA,92880,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Chronic Dialysis Clinic
+306360801,TRI-STATE COMMUNITY HEALTHCARE CENTER,Clinic - Federally Qualified Health Center (FQHC),1532 SAN BERNARDINO AVE,STE B7,POMONA,CA,91767,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306304415,FRIENDS OF FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1129 W 4TH ST,,ONTARIO,CA,91762,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406198480,CALIFORNIA EYE PROFESSIONALS, ,41637 MARGARITA RD,STE 100,TEMECULA,CA,92591,Riverside,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+306420020,ST MARY HEALTH CENTER, ,18077 US HIGHWAY 18,STE B,APPLE VALLEY,CA,92307,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190699,PRECISION PAIN CENTER, ,900 S MAIN ST,STE 207,CORONA,CA,92882,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306191053,EAST VALLEY COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1555 S GAREY AVE,,POMONA,CA,91766,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206331116,COMMUNITY CARE ON PALM, ,4768 PALM AVE,,RIVERSIDE,CA,92501,Riverside,Parent Facility,51.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306330021,INNERCARE BLYTHE,Clinic - Federally Qualified Health Center (FQHC),1415 W HOBSONWAY,,BLYTHE,CA,92225,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190696,COMMUNITY HEALTH CENTER, ,22675 ALESSANDRO BLVD,,MORENO VALLEY,CA,92553,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306304582,CHINA LAKE COMMUNITY CLINIC, ,1041 N CHINA LAKE BLVD,STE C,RIDGECREST,CA,93555,Kern,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306334727,INNERCARE HEMET,Clinic - Federally Qualified Health Center (FQHC),1023 E FLORIDA AVE,,HEMET,CA,92543,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306360456,COACHELLA VALLEY COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),49869 CALHOUN ST,,COACHELLA,CA,92236,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306294026,LIVINGWATERS MEDICAL CLINIC, ,24910 LAS BRISAS RD,STE 111,MURRIETA,CA,92562,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Free Clinic
+306360016,LOMA LINDA UNIVERSITY CANCER CENTER, ,11234 ANDERSON ST,STE A220,LOMA LINDA,CA,92354,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Chronic Dialysis Clinic
+106362041,HI-DESERT MEDICAL CENTER, ,57407 29 PALMS HWY,STE F,YUCCA VALLEY,CA,92284,San Bernardino,Parent Facility,179.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306196607,RANCHO COUNSELING CENTER, ,29645 RANCHO CALIFORNIA RD,STE 209,TEMECULA,CA,92591,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306194138,MISSION CITY COMM NWK INC,Clinic - Federally Qualified Health Center (FQHC),405 E BUENA VISTA ST,,BARSTOW,CA,92311,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106361318,SAN ANTONIO REGIONAL HOSPITAL URGENT CARE,Licensed Freestanding Emergency Medical Facility,16465 SIERRA LAKES PKWY,STE 100,FONTANA,CA,92336,San Bernardino,Parent Facility,363.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106361339,BENACARE MEDICAL CENTER, ,984 W FOOTHILL BLVD,STE E,UPLAND,CA,91786,San Bernardino,Parent Facility,342.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306214009,POINT REYES MEDICAL CLINIC,Clinic - Federally Qualified Health Center (FQHC),3 6TH ST,,POINT REYES STATION,CA,94956,Marin,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106380857,KAISER FOUNDATION HOSPITAL - SAN FRANCISCO,Hospital Inpatient,2425 GEARY BLVD,,SAN FRANCISCO,CA,94115,San Francisco,Parent Facility,239.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190315,FRIENDLY MEDICAL CENTER, ,15462 MAIN ST,,HESPERIA,CA,92345,San Bernardino,Parent Facility,210.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306394092,IRONSTONE MEDICAL CLINIC, ,4121 BROCKTON AVE,STE 104,RIVERSIDE,CA,92501,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Free Clinic
+406091782,REALM HEALTHCARE INC, ,1330 SAN BERNARDINO RD,STE L,UPLAND,CA,91786,San Bernardino,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306190753,ELITE FAMILY MEDICAL CENTER, ,1183 E FOOTHILL BLVD,STE 135,UPLAND,CA,91786,San Bernardino,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306561202,CLINICAS DEL CAMINO REAL INC, ,2600 E VINEYARD AVE,,OXNARD,CA,93036,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306560700,CLINICAS DEL CAMINO REAL INC - KAREN R BURNHAM HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1100 W GONZALES RD,,OXNARD,CA,93036,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206301181,ACTIVE STEPS- GARDEN GROVE, ,12437 LEWIS ST STE 100,,GARDEN GROVE,CA,92840,Orange,Parent Facility,99.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306394014,COMMUNITY MEDICAL CENTERS - ESPARTO,Clinic - Federally Qualified Health Center (FQHC),17050 S GRAFTON ST,,ESPARTO,CA,95627,Yolo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306564230,"CLINICAS DEL CAMINO REAL, INC. (NEWBURY PARK)",Clinic - Federally Qualified Health Center (FQHC),"1000 NEWBURY ROAD, SUITE 150",,NEWBURY PARK,CA,91320,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190687,UCLA SANTA MONICA MEDICAL CENTER AND ORTHOPAEDIC HOSPITAL, ,1250 16TH ST,,SANTA MONICA,CA,90404,Los Angeles,Parent Facility,281.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306190564,VALLEY COMMUNITY HEALTHCARE, ,9119 HASKELL AVE,,NORTH HILLS,CA,91343,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106370782,UCSD HEALTH - HILLCREST UC SAN DIEGO MEDICAL CENTER, ,200 W. Arbor Dr.,,San Diego,CA,92103,San Diego ,Parent Facility,381.0,Emergency - Comprehensive,Open,Hospital,General Acute Care Hospital
+306374491,SYHC - KING-CHAVEZ HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),950 S. Euclid Ave.,,San Diego,CA,92114,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206042237,FEATHER RIVER EYE CARE, ,901 MAPLE AVE,,YUBA CITY,CA,95991,Sutter,Parent Facility,50.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306200062,CAMARENA HEALTH, ,300 PROSPERITY BLVD BLDG B,,CHOWCHILLA,CA,93610,Madera,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306384219,PLANNED PARENTHOOD CALIFORNIA CENTRAL COAST,Clinic - Free Standing,518 GARDEN ST,,SANTA BARBARA,CA,93101,Santa Barbara,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106540798,SIERRA VIEW MEDICAL EYE INC, ,400 SIERRA COLLEGE DR STE A,,GRASS VALLEY,CA,95945,Nevada,Parent Facility,167.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306564103,"CLINICAS DEL CAMINO REAL, INC. (SANTA PAULA)",Clinic - Federally Qualified Health Center (FQHC),500 E MAIN ST,,SANTA PAULA,CA,93060,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306014188,LA CLINICA DE LA RAZA, ,3060 E 9TH ST STE B,,OAKLAND,CA,94601,Alameda,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106074039,"HYPERION BEHAVIORAL HEALTH CENTER, INC", ,27990 S. HIGHWAY 1,,POINT ARENA,CA,95468,Mendocino,Parent Facility,73.0,Not Applicable,Open,Hospital,Acute Psychiatric Hospital
+306560448,"AMIGO BABY THERAPY SERVICES, INC",Clinic - Outpatient Rehabilitation Facility,1901 N RICE AVE STE 170,,OXNARD,CA,93030,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Rehabilitation Clinic
+306198247,BEHAVIORAL HEALTH SERVICES - FAMILY HEALTH CENTER HAWTHORNE,Clinic - Federally Qualified Health Center (FQHC),2501 W EL SEGUNDO BLVD,SUITE B,HAWTHORNE,CA,90250,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306564269,"CLINICAS DEL CAMINO REAL, INC. (SIMI VALLEY EAST)",Clinic - Federally Qualified Health Center (FQHC),4370 EVE RD,,SIMI VALLEY,CA,93063,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344212,RCMG-SACRAMENTO COMMUNITY CLINIC- EXPLORER,Clinic - Federally Qualified Health Center (FQHC),3030 Explorer Dr.,,Sacramento,CA,95827,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197630,NORTHEAST COMMUNITY CLINIC - HAWTHORNE,Clinic - Federally Qualified Health Center (FQHC),4455 W. 117th St. 300,,Hawthorne,CA,90250,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306342208,PLANNED PARENTHOOD MAR MONTE- B STREET HEALTH CENTER,Clinic - Other,201 29th St. B,,Sacramento,CA,95816,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306564234,CLINICAS DEL CAMINO REAL SIMI VALLEY, ,1424 MADERA RD,,SIMI VALLEY,CA,93065,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197797,APLA HEALTH & WELLNESS CENTER - BALDWIN HILLS2 - HCLA,Clinic - Federally Qualified Health Center (FQHC),3741 S La Brea Ave,,Los Angeles,CA,90016,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206190514,HYPERION BEHAVIORAL HEALTH CENTER, ,308 N MONTGOMERY ST,,OJAI,CA,93023,Ventura,Parent Facility,77.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+206190250,COAST CARE CENTER, ,14518 LOS ANGELES ST,,BALDWIN PARK,CA,91706,Los Angeles,Parent Facility,40.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306198274,EISNER PEDIATRIC & FAMILY MEDICAL CENTER - SHERMAN OAKS - PI,Clinic - Federally Qualified Health Center (FQHC),15477 Ventura Blvd. 300,,Sherman Oaks,CA,91403,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190127,EISNER PEDIATRIC AND FAMILY MEDICAL CENTER-OLIVE-HCLA,Clinic - Federally Qualified Health Center (FQHC),1530 S. Olive St.,,Los Angeles,CA,90015,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206100177,ACE EYECARE INC, ,1721 WESTWIND DR STE B,,BAKERSFIELD,CA,93301,Kern,Parent Facility,6.0,Not Applicable,Open,Long Term Care Facility,Congregate Living Health Facility
+406014110,HOPE HOUSE, ,4215 PECK RD,,EL MONTE,CA,91732,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+306198407,ANGELES COMMUNITY HEALTH CENTER - LA - GCMG,Clinic - Federally Qualified Health Center (FQHC),1919 W. Seventh St. 2A,,Los Angeles,CA,90057,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190774,PRIORITY CARE MEDICAL GROUP - LONG BEACH - ACCESS IPA,Clinic - Federally Qualified Health Center (FQHC),500 W. Willow St. 101,,Long Beach,CA,90806,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190629,MOLINA - GARFIELD HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),210 N. Garfield Ave. 316,,Monterey Park,CA,91754,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306560681,"CLINICAS DEL CAMINO REAL, INC. (EL RIO)",Clinic - Federally Qualified Health Center (FQHC),2600 E VINEYARD AVE,,OXNARD,CA,93036,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106560203,AURORA VISTA DEL MAR HOSPITAL, ,801 SENECA ST,,VENTURA,CA,93001,Ventura,Parent Facility,87.0,Not Applicable,Open,Hospital,Acute Psychiatric Hospital
+306342248,RCMG-SACRAMENTO NATIVE AMERICAN HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2020 J St.,,Sacramento,CA,95811,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206190189,CENTRIA HEALTHCARE - BEAVERTON, ,1800 NW 167TH PL STE 115,,BEAVERTON,OR,97006,,Parent Facility,54.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+406190775,FAMILY EYE CARE, ,8190 MANGO AVE,,FONTANA,CA,92335,San Bernardino,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306190670,ST. ANTHONY MEDICAL CENTER - PICO - GCMG,Clinic - Federally Qualified Health Center (FQHC),2515 W. Pico Blvd.,,Los Angeles,CA,90006,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306340735,RIVER CITY - SACRAMENTO COMMUNITY CLINIC - EL CAMINO,Clinic - Federally Qualified Health Center (FQHC),965 El Camino Ave.,,Sacramento,CA,95815,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306561169,"CLINICAS DEL CAMINO REAL, INC.", ,1100 W GONZALES RD,,OXNARD,CA,93036,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344019,PLANNED PARENTHOOD MAR MONTE- NORTH HIGHLANDS HLTH CENTER,Clinic - Federally Qualified Health Center (FQHC),5700 Watt Ave.,,North Highlands,CA,95660,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344198,RCMG - SACRAMENTO COMMUNITY CLINIC - DEL PASO,Clinic - Federally Qualified Health Center (FQHC),2200 Del Paso Blvd.,,Sacramento,CA,95815,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190533,PRIORITY CARE MEDICAL GROUP - EL MONTE - ACCESS IPA,Clinic - Federally Qualified Health Center (FQHC),3229 Santa Anita Ave.,,El Monte,CA,91733,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306191327,MOLINA - COMPREHENSIVE COMMUNITY HEALTH CENTERS INC.,Clinic - Federally Qualified Health Center (FQHC),1704 Colorado Blvd.,,Los Angeles,CA,90041,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306300668,NORTHEAST COMMUNITY CLINIC- WILMINGTON FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),200 E. Anaheim St.,,Wilmington,CA,90744,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190422,MEMORIAL CARE MEDICAL FOUNDATION TORRANCE,Clinic - Federally Qualified Health Center (FQHC),22719 Hawthorne Blvd.,,Torrance,CA,90505,Los Angeles,Parent Facility,610.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406198430,ALTAMED HEALTH SERVICES, ,5427 Whittier Blvd.,,Los Angeles,CA,90022,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+306196892,COMPLETE CARE COMMUNITY HEALTH CENTER - SOUTH GATE - RMG,Clinic - Federally Qualified Health Center (FQHC),5831 Firestone Blvd. E,,South Gate,CA,90280,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197557,NORTHEAST COMMUNITY CLINIC - RMG,Clinic - Federally Qualified Health Center (FQHC),4455 W. 117th St. 200,,Hawthorne,CA,90250,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306560020,"CLINICAS DEL CAMINO REAL, INC., ROBERT S. JUAREZ HEALTH CENT",Clinic - Federally Qualified Health Center (FQHC),2100 STATHAM BLVD,,OXNARD,CA,93033,Ventura,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198095,THE CHILDREN'S CLINIC FAMILY HEALTH CENTER CABRILLO GATEWAY,Clinic - Federally Qualified Health Center (FQHC),2000 San Gabriel Ave,,Long Beach,CA,90810,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406394097,"GLOBAL HEALTHCARE SERVICES, INC", ,1390 MARKET ST STE 200,,SAN FRANCISCO,CA,94102,San Francisco,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306274059,GARFIELD HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),210 N. Garfield Ave. 316,,Monterey Park,CA,91754,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197865,KENDREN COMMUNITY CARE CLINIC - GCMG,Clinic - Federally Qualified Health Center (FQHC),4211 Avalon Blvd. A,,Los Angeles,CA,90011,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196855,COMPREHENSIVE COMMUNITY HEALTH CENTERS - GLENDALE,Clinic - Federally Qualified Health Center (FQHC),801 S. Chevy Chase Dr. 250,,Glendale,CA,91205,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190363,HARBOR COMMUNITY CLINIC-HCLA,Clinic - Federally Qualified Health Center (FQHC),593 W. Sixth St.,,San Pedro,CA,90731,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344013,PLANNED PARENTHOOD MAR MONTE- FRUITRIDGE,Clinic - Other,5385 Franklin Blvd. A,,Sacramento,CA,95820,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190893,APLA HEALTH & WELLNESS - LONG BEACH CENTER - RMG, ,1043 Elm Ave. 302,,Long Beach,CA,90813,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190404,SAN JUDAS COMMUNITY HEALTH CENTER (SJCHC),Clinic - Federally Qualified Health Center (FQHC),1080 N. Western Ave.,,Los Angeles,CA,90029,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198295,COMPLETE CARE COMMUNITY HEALTH CENTER - HUNTINGTON PARK - HC,Clinic - Federally Qualified Health Center (FQHC),7301 State St.,,Huntington Park,CA,90255,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306191038,WILMINGTON COMMUNITY CLINIC-HCLA,Clinic - Federally Qualified Health Center (FQHC),1009 N. Avalon Blvd.,,Wilmington,CA,90744,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197953,MOLINA - ALL FOR HEALTH HEALTH FOR ALL, ,8134 Foothill Blvd.,,Sunland,CA,91040,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306194705,CENTRAL CITY COMMUNITY - HEALTH CENTER - RMG,Clinic - Federally Qualified Health Center (FQHC),5970 S. Central Ave.,,Los Angeles,CA,90001,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198346,COMMUNITY MEDICAL WELLNESS CENTERS USA,Clinic - Federally Qualified Health Center (FQHC),1360 E. Anaheim St. 101,,Long Beach,CA,90813,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306070021,SAN MATEO DIALYSIS, ,1750 EL CAMINO REAL,STE 15,BURLINGAME,CA,94010,San Mateo,Parent Facility,,Not Applicable,Open,Clinic,Chronic Dialysis Clinic
+306190503,ALL-INCLUSIVE COMMUNITY HEALTH CENTER - ANGELES - LMG,Clinic - Federally Qualified Health Center (FQHC),3920 Eagle Rock Blvd. A,,Los Angeles,CA,90065,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190461,APLA HEALTH - OLYMPIC #310 - LMG,Clinic - Federally Qualified Health Center (FQHC),5901 W. Olympic Blvd. 310,,Los Angeles,CA,90036,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197050,COMPLETE CARE COMMUNITY HEALTH CENTER - ALTADENA - RMG, ,2928 E. Cesar E. Chavez Ave.,,Los Angeles,CA,90033,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198343,NECC ELIZABETH HEALTH CENTER - PREFERRED IPA,Clinic - Federally Qualified Health Center (FQHC),2822 E. Florence Ave.,,Huntington Park,CA,90255,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196500,THE VASEK POLAK CHILDREN'S CLINIC FAMILY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1057 Pine Ave.,,Long Beach,CA,90813,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306300703,ANGELES COMMUNITY HEALTH CENTER 1919,Clinic - Federally Qualified Health Center (FQHC),1919 W. Seventh St. 2A,,Los Angeles,CA,90057,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306300021,MOLINA - CENTRAL CITY COMMUNITY HEALTH CENTER INC - EL MONTE,Clinic - Federally Qualified Health Center (FQHC),10050 Garvey Ave. 111,,El Monte,CA,91733,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306194613,BELL GARDENS FAMILY MEDICAL CENTER - RMG,Clinic - Federally Qualified Health Center (FQHC),6501 Garfield Ave.,,Bell,CA,90201,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197742,CTR FOR FAMILY HEALTH & EDUCATION,Clinic - Federally Qualified Health Center (FQHC),455 W. Willow St.,,Long Beach,CA,90806,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198026,R.O.A.D.S. COMMUNITY CLINIC,Clinic - Federally Qualified Health Center (FQHC),121 S. Long Beach Blvd.,,Compton,CA,90221,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197955,EL PROYECTO DEL BARRIO CLINIC - BALDWIN PARK,Clinic - Federally Qualified Health Center (FQHC),3942 Maine Ave.,,Baldwin Park,CA,91706,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206194202,ANTELOPE VALLEY EYE CARE, ,42543 8TH ST W STE 101,,LANCASTER,CA,93534,Los Angeles,Parent Facility,199.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306190781,MOLINA-VIA CARE COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),4755 E. Cesar E. Chavez Ave. A,,Los Angeles,CA,90022,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306271860,PLANNED PARENTHOOD MAR MONTE- NORTH STOCKTON HEALTH CENTER,Clinic - Other,4555 Precissi Ln.,,Stockton,CA,95207,San Joaquin,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196160,SAMUEL DIXON FAMILY HEALTH CENTER-CANYON COUNTRY-HCLA,Clinic - Federally Qualified Health Center (FQHC),27225 Camp Plenty Rd. 4,,Canyon Country,CA,91351,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196169,CRENSHAW COMMUNITY HEALTH CENTER-HCLA,Clinic - Federally Qualified Health Center (FQHC),3756 Santa Rosalia Dr. 400,,Los Angeles,CA,90008,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306194195,SAMUEL DIXON FAMILY HEALTH CENTERS INC-CANYON COUNTRY,Clinic - Federally Qualified Health Center (FQHC),27225 Camp Plenty Rd. 4,,Canyon Country,CA,91351,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106150706,IMG - ADVENTIST HEALTH DELANO,Clinic - Rural Health,1201 Jefferson St.,,Delano,CA,93215,Kern,Parent Facility,156.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306197796,MOLINA - ST. JOHN'S WELL CHILD AND FAMILY CENTER,Clinic - Federally Qualified Health Center (FQHC),1060 Exposition Blvd,,Los Angeles,CA,90007,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190638,KWANG HE WON HEALTH CENTER - GCMG,Clinic - Federally Qualified Health Center (FQHC),815 S. Ardmore Ave.,,Los Angeles,CA,90005,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306100023,IMG - UNITED HEALTH CENTERS OF THE SAN JOAQUIN VALLEY,Clinic - Federally Qualified Health Center (FQHC),476 E. Washington Ave.,,Earlimart,CA,93219,Tulare,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197763,MISSION CITY COMMUNITY NETWORK - PRAIRIE - LMG, ,301 N. Prairie Ave. 311,,Inglewood,CA,90301,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190023,OAKDALE COMMUNITY HLTH CENTER,Clinic - Rural Health,1420 W. H St.,,Oakdale,CA,95361,Stanislaus,Parent Facility,,Not Applicable,Open,Clinic,Free Clinic
+206190125,SERENE HEALTH, ,4849 RONSON CT,STE 207,SAN DIEGO,CA,92111,San Diego ,Parent Facility,6.0,Not Applicable,Open,Long Term Care Facility,Congregate Living Health Facility
+306374513,FAMILY HEALTH CENTER DIAMOND NEIGHBORHOODS,Clinic - Federally Qualified Health Center (FQHC),4725 MARKET ST,,SAN DIEGO,CA,92102,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106370673,RADY CHILDREN'S HOSPITAL SAN DIEGO,Hospital Inpatient,3020 CHILDRENS WAY,,SAN DIEGO,CA,92123,San Diego ,Parent Facility,507.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306374559,FAMILY HEALTH CENTER EL CAJON,Clinic - Federally Qualified Health Center (FQHC),525 E MAIN ST,,EL CAJON,CA,92020,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106370714,SHARP GROSSMONT HOSPITAL,Clinic - Hospital Based or Independent,5555 GROSSMONT CENTER DR,,LA MESA,CA,91942,San Diego ,Parent Facility,542.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106374382,PALOMAR MEDICAL CENTER ESCONDIDO,Hospital Inpatient,2185 CITRACADO PKWY,,ESCONDIDO,CA,92029,San Diego ,Parent Facility,292.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306374280,FAMILY HEALTH CENTER CHASE AVENUE,Clinic - Federally Qualified Health Center (FQHC),1111 W CHASE AVE,,EL CAJON,CA,92020,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106110889,GALT MEDICAL CENTER,Clinic - Rural Health,387 CIVIC DR,,GALT,CA,95632,Sacramento,Parent Facility,47.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+306344163,WELLSPACE HEALTH NORWOOD COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),3946 NORWOOD AVE,,SACRAMENTO,CA,95838,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374518,FAMILY HEALTH AT CENTER  AT CITY COLLEGE,Clinic - Federally Qualified Health Center (FQHC),1550 BROADWAY,STE 2,SAN DIEGO,CA,92101,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306340542,WELLSPACE HEALTH  ARDEN ARCADE COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2433 MARCONI AVE,,SACRAMENTO,CA,95821,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344164,WELLSPACE HEALTH SOUTH VALLEY COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),8233 E STOCKTON BLVD,STE D,SACRAMENTO,CA,95828,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344231,PEACH TREE HEALTHCARE - NORTH SACRAMENTO,Clinic - Federally Qualified Health Center (FQHC),3810 ROSIN CT,STE 100,SACRAMENTO,CA,95834,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306340747,ELICA HEALTH CENTER NORTH HIGHLANDS,Clinic - Federally Qualified Health Center (FQHC),4815 WATT AVE,,NORTH HIGHLANDS,CA,95660,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106130699,EL CENTRO REGIONAL MEDICAL CENTER,Clinic - Rural Health,1415 ROSS AVE,,EL CENTRO,CA,92243,Imperial,Parent Facility,161.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306374421,FAMILY HEALTH CENTER CHULA VISTA,Clinic - Federally Qualified Health Center (FQHC),251 LANDIS AVE,,CHULA VISTA,CA,91910,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370847,FAMILY HEALTH CENTER BEACH AREA,Clinic - Federally Qualified Health Center (FQHC),3705 MISSION BLVD,,SAN DIEGO,CA,92109,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206301210,NEIGHBORHOOD HEALTHCARE VALLEY CENTER,Clinic - Federally Qualified Health Center (FQHC),28477 LIZARD ROCKS RD,,VALLEY CENTER,CA,92082,San Diego ,Parent Facility,144.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306374539,FAMILY HEALTH CENTER ON COMMERCIAL,Clinic - Federally Qualified Health Center (FQHC),2325 COMMERCIAL ST,STE 1400,SAN DIEGO,CA,92113,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374484,LA MAESTRA COMMUNITY HEALTH CENTER- HOPE CLINIC,Clinic - Federally Qualified Health Center (FQHC),4060 FAIRMOUNT AVE,,SAN DIEGO,CA,92105,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374558,FAMILY HEALTH CENTER OAK PARK,Clinic - Federally Qualified Health Center (FQHC),5160 FEDERAL BLVD,,SAN DIEGO,CA,92105,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406524013,THE ELIZABETH HOSPICE,Hospice (non-hospital based),500 LA TERRAZA BLVD,STE 130,ESCONDIDO,CA,92025,San Diego ,Branch,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+406195576,CALIFORNIA PAIN SPECIALISTS INC, ,5120 MANZANITA AVE,STE 105,CARMICHAEL,CA,95608,Sacramento,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+406195318,HEALTH CARE FOR WOMEN, ,7601 HOSPITAL DR,STE 220,SACRAMENTO,CA,95823,Sacramento,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306344177,WELLSPACE HEALTH - DEL PASO HEIGHTS COMMUNITY HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),3441 MARYSVILLE BLVD,,SACRAMENTO,CA,95838,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306491404,ALLMED MEDICAL CENTERS, ,701 HOWE AVE,D38,SACRAMENTO,CA,95825,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306344153,ELICA HEALTH CENTERS,Clinic - Federally Qualified Health Center (FQHC),3701 J ST,STE 201,SACRAMENTO,CA,95816,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106391010,SAN JOAQUIN GENERAL HOSPITAL, ,500 W HOSPITAL RD,,FRENCH CAMP,CA,95231,San Joaquin,Parent Facility,152.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106334564,TEMECULA VALLEY HOSPITAL, ,31700 TEMECULA PKWY,,TEMECULA,CA,92592,Riverside,Parent Facility,140.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406374352,LIGHTBRIDGE HOSPICE LLC,Hospice (non-hospital based),6155 CORNERSTONE CT E,STE 220,SAN DIEGO,CA,92121,San Diego ,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+106541123,EXPLORER DEVELOPMENT CENTER, ,701 PALOMAR AIRPORT RD,STE 300,CARLSBAD,CA,92011,San Diego ,Parent Facility,607.0,,Open,Hospital,General Acute Care Hospital
+306374398,FAMILY HEALTH CENTER SHERMAN HEIGHTS,Clinic - Federally Qualified Health Center (FQHC),2391 ISLAND AVE,,SAN DIEGO,CA,92102,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106240924,LODI MEMORIAL HOSPITAL, ,1901 W KETTLEMAN LN,STE 200,LODI,CA,95242,San Joaquin,Parent Facility,38.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306344165,THE BIRTH CENTER A NURSING CORPORATION,Free Standing Birthing Center,5440 LAUREL HILLS DR,,SACRAMENTO,CA,95841,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Alternative Birthing Center
+206196394,ABBY GARDENS HEALTHCARE CENTER,SNF Inpatient,8060 FROST ST,,SAN DIEGO,CA,92123,San Diego ,Parent Facility,45.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306197913,BAY ORIENTAL MEDICAL CLINIC, ,5159 LONE TREE WAY,,ANTIOCH,CA,94531,Contra Costa,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206331217,DESERT SPRINGS HEALTHCARE & WELLNESS,SNF Inpatient,82262 VALENCIA AVE,,INDIO,CA,92201,Riverside,Parent Facility,68.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+106334589,LOMA LINDA UNIVERSITY MEDICAL CENTERMURRIETA CAMPUS, ,28062 BAXTER RD,,MURRIETA,CA,92563,Riverside,Parent Facility,111.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306294027,WESTERN SIERRA MEDICAL CENTER, ,844 OLD TUNNEL RD,,GRASS VALLEY,CA,95945,Nevada,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374519,SAMAHAN HEALTH CENTERS,Clinic - Federally Qualified Health Center (FQHC),9995 CARMEL MOUNTAIN RD,STE B10-B11,SAN DIEGO,CA,92129,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306570445,ELICA HEALTH CENTERS - MIDTOWN MEDICAL CENTERS,Clinic - Federally Qualified Health Center (FQHC),3701 J ST,STE 201,SACRAMENTO,CA,95816,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106311000,SUTTER ROSEVILLE MEDICAL CENTER, ,1 MEDICAL PLAZA DR,,ROSEVILLE,CA,95661,Placer,Parent Facility,382.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306420717,SACRAMENTO COMMUNITY CLINIC,Clinic - Federally Qualified Health Center (FQHC),3030 EXPLORER DR,,SACRAMENTO,CA,95827,Sacramento,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406342407,A 1 HEALTHCARE, ,5006 SUNRISE BLVD,202,FAIR OAKS,CA,95628,Sacramento,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+106410891,SEQUOIA HOSPITAL,Hospital Inpatient,170 ALAMEDA DE LAS PULGAS,,REDWOOD CITY,CA,94062,San Mateo,Parent Facility,184.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106390923,ADVENTIST HEALTH LODI MEMORIAL HOSPITAL, ,387 CIVIC DR,,GALT,CA,95632,San Joaquin,Parent Facility,194.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+206340862,"WINDSOR EL CAMINO CARE CENTER, LLC",SNF Inpatient,2540 CARMICHAEL WAY,,CARMICHAEL,CA,95608,Sacramento,Parent Facility,178.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+106070924,COLUSA REGIONAL MEDICAL CENTER CLINICS,Clinic - Federally Qualified Health Center (FQHC),151 E WEBSTER ST,,COLUSA,CA,95932,Colusa,Parent Facility,167.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+206010968,SIENA CARE SKILLED NURSING FACILITY, ,11600 EDUCATION ST,,AUBURN,CA,95602,Placer,Parent Facility,28.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+206301107,THE PAVILION AT SUNNY HILLS,SNF Inpatient,2222 N HARBOR BLVD,,FULLERTON,CA,92835,Orange,Parent Facility,228.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306197593,TARZANA TREATMENT CENTERS INC,Clinic - Federally Qualified Health Center (FQHC),907 W LANCASTER BLVD,,LANCASTER,CA,93534,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406190306,SIERRA HEALTH SERVICES, ,5530 BIRDCAGE ST,,CITRUS HEIGHTS,CA,95610,Sacramento,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+206301204,ORANGE HEALTHCARE & WELLNESS,SNF Inpatient,920 W LA VETA ST,,ORANGE,CA,92868,Orange,Parent Facility,102.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+406391401,MARINA HEALTH OF CALIFORNIA, ,402 W BROADWAY,STE 400,SAN DIEGO,CA,92101,San Diego ,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+406190060,NIVANO HEALTHCARE, ,13385 FOLSOM BLVD,STE 800,FOLSOM,CA,95630,Sacramento,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+406190183,EYECARE SOLUTIONS INC, ,477 N EL CAMINO REAL,STE C202,ENCINITAS,CA,92024,San Diego ,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306514041,AMPLA HEALTH YUBA CITY MEDICAL, ,1000 SUTTER ST,,YUBA CITY,CA,95991,Sutter,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106050932,ST MARY MEDICAL CENTER,Clinic - Hospital Based or Independent,18300 HIGHWAY 18,,APPLE VALLEY,CA,92307,San Bernardino,Parent Facility,25.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406198017,MIND CARE SERVICES, ,333 W Broadway Ste 310,,Long Beach,CA,90802,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+106196168,LONG BEACH MEMORIAL MC MILLER CHILDRENS HOSPITAL,Hospital Inpatient,2801 Atlantic Avenue,,Long Beach,CA,90806,Los Angeles,Parent Facility,357.0,,Open,Hospital,General Acute Care Hospital
+106190796,RONALD REAGAN UCLA MEDICAL CENTER,Hospital Inpatient,757 Westwood Plaza,,Los Angeles,CA,90095,Los Angeles,Parent Facility,446.0,Emergency - Comprehensive,Open,Hospital,General Acute Care Hospital
+106190758,PROVIDENCE SAINT JOSEPH MEDICAL CENTER,Hospital Inpatient,501 South Buena Vista Street,,Burbank,CA,91505,Los Angeles,Parent Facility,383.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190198,LOS ANGELES COMMUNITY HOSPITAL,Hospital Inpatient,4081 East Olympic Blvd,,Los Angeles,CA,90023,Los Angeles,Parent Facility,130.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+106190878,ADVENTIST HEALTH WHITE MEMORIAL,Hospital Inpatient,1720 Cesar E Chavez Avenue,,Los Angeles,CA,90033,Los Angeles,Parent Facility,353.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306190784,AHF HEALTHCARE CENTER - HOLLYWOOD,Clinic - Free Standing,1300 N VERMONT AVE STE 101,,Los Angeles,CA,90027,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190400,HUNTINGTON MEMORIAL HOSPITAL,Hospital Inpatient,100 West California Blvd,,Pasadena,CA,91105,Los Angeles,Parent Facility,534.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190385,PROVIDENCE HOLY CROSS MEDICAL CENTER,Hospital Inpatient,15031 Rinaldi Street,,Mission Hills,CA,91345,Los Angeles,Parent Facility,378.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190754,ST. FRANCIS MEDICAL CENTER,Hospital Inpatient,3630 East Imperial Highway,,Lynwood,CA,90262,Los Angeles,Parent Facility,354.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406190245,METHODIST HOSPITAL OF SOUTHERN CALIFORNIA,Hospital Inpatient,300 West Huntington Drive,,Arcadia,CA,91007,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+106190521,MEMORIAL HOSPITAL OF GARDENA,Hospital Inpatient,1145 West Redondo Beach Blvd,,Gardena,CA,90247,Los Angeles,Parent Facility,172.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190352,GREATER EL MONTE COMMUNITY HOSPITAL,Hospital Inpatient,1701 Santa Anita Avenue,,South El Monte,CA,91733,Los Angeles,Parent Facility,115.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190547,MONTEREY PARK HOSPITAL,Hospital Inpatient,900 South Atlantic Blvd,,Monterey Park,CA,91754,Los Angeles,Parent Facility,101.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190017,ALHAMBRA HOSPITAL MEDICAL CENTER,Hospital Inpatient,100 South Raymond Avenue,,Alhambra,CA,91801,Los Angeles,Parent Facility,144.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190382,HOLLYWOOD PRESBYTERIAN MEDICAL CENTER,Hospital Inpatient,1300 North Vermont Avenue,,Los Angeles,CA,90027,Los Angeles,Parent Facility,434.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190323,ADVENTIST HEALTH GLENDALE,Hospital Inpatient,1509 Wilson Terrace,,Glendale,CA,91206,Los Angeles,Parent Facility,515.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190522,GLENDALE MEMORIAL HOSPITAL AND HEALTH CTR,Hospital Inpatient,1420 South Central Avenue,,Glendale,CA,91204,Los Angeles,Parent Facility,334.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190200,SAN GABRIEL VALLEY MEDICAL CENTER,Hospital Inpatient,438 W Las Tunas Dr,,San Gabriel,CA,91776,Los Angeles,Parent Facility,273.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190148,CENTINELA HOSPITAL MEDICAL CENTER,Hospital Inpatient,555 East Hardy Street,,Inglewood,CA,90301,Los Angeles,Parent Facility,362.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190524,MISSION COMMUNITY HOSPITAL PANORAMA,Hospital Inpatient,14850 Roscoe Blvd,,Panorama City,CA,91402,Los Angeles,Parent Facility,145.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190470,PROVIDENCE LITTLE COMPANY OF MARY MC TORRANCE,Hospital Inpatient,4101 Torrance Blvd,,Torrance,CA,90503,Los Angeles,Parent Facility,327.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190680,PROVIDENCE LITTLE COMPANY OF MARY MC SAN PEDRO,Hospital Inpatient,1300 West 7th Street,,San Pedro,CA,90732,Los Angeles,Parent Facility,231.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306190962,NORTHEAST VALLEY HEALTH - PACOIMA HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),12756 VAN NUYS BLVD,,Pacoima,CA,91331,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190256,EAST LOS ANGELES DOCTOR'S HOSPITAL,Hospital Inpatient,4060 East Whittier Blvd,,Los Angeles,CA,90023,Los Angeles,Parent Facility,127.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190517,PROVIDENCE TARZANA MEDICAL CENTER,Hospital Inpatient,18321 Clark Street,,Tarzana,CA,91356,Los Angeles,Parent Facility,204.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190673,SAN DIMAS COMMUNITY HOSPITAL,Hospital Inpatient,1350 West Covina Blvd,,San Dimas,CA,91773,Los Angeles,Parent Facility,101.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190812,VALLEY PRESBYTERIAN HOSPITAL,Hospital Inpatient,15107 Vanowen Street,,Van Nuys,CA,91409,Los Angeles,Parent Facility,350.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190197,COMMUNITY HOSPITAL OF HUNTINGTON PARK,Hospital Inpatient,2623 East Slauson Avenue,,Huntington Park,CA,90255,Orange,Parent Facility,81.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190052,BARLOW RESPIRATORY HOSPITAL,Hospital Inpatient,2000 Stadium Way,,Los Angeles,CA,90026,Los Angeles,Parent Facility,105.0,,Open,Hospital,General Acute Care Hospital
+106190883,WHITTIER HOSPITAL MEDICAL CENTER,Hospital Inpatient,9080 Colima Road,,Whittier,CA,90605,Los Angeles,Parent Facility,178.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306190500,ALTAMED MEDICAL GROUP- WESTLAKE 3RD STREET,Special Facility - Other,2100 W 3RD ST STE 400,,Los Angeles,CA,90057,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190110,SOUTHERN CALIFORNIA HOSPITAL AT CULVER CITY,Hospital Inpatient,3828 Delmas Terrace,,Culver City,CA,90232,Los Angeles,Consolidated Facility,410.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190587,COLLEGE MEDICAL CENTER,Hospital Inpatient,2776 Pacific Avenue,,Long Beach,CA,90806,Los Angeles,Parent Facility,121.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190630,POMONA VALLEY HOSPITAL MEDICAL CENTER,Hospital Inpatient,1798 North Garey Avenue,,Pomona,CA,91767,Los Angeles,Parent Facility,427.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306014231,UCLA CHILDREN'S CLINIC,Clinic - Free Standing,200 UCLA MEDICAL PLZ STE 265,,Los Angeles,CA,90095,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306194813,BELL GARDENS COMMUNITY HLTH CTR,Clinic - Federally Qualified Health Center (FQHC),6912 AJAX AVE,,Bell,CA,90201,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306194433,JEFFERY GOODMAN SPECIAL CARE CLINIC,Clinic - Free Standing,1625 N SCHRADER BLVD,,Los Angeles,CA,90028,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196513,CLINICA MONSENOR OSCAR A. ROMERO,Clinic - Federally Qualified Health Center (FQHC),123 S ALVARADO ST,,Los Angeles,CA,90057,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190280,ENCINO HOSPITAL MEDICAL CENTER,Hospital Inpatient,16237 Ventura Blvd,,Encino,CA,91436,Los Angeles,Parent Facility,148.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306197824,AHF HEALTHCARE CENTER - DOWNTOWN,Clinic - Free Standing,1400 S GRAND AVE STE 615,,Los Angeles,CA,90015,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198432,NORTHEAST VALLEY HEALTH CORPORATION - PEDIATRIC HEALTH AND W,Clinic - Federally Qualified Health Center (FQHC),7138 VAN NUYS BLVD,,Van Nuys,CA,91405,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197559,USC - ESINER FAMILY MEDICINE CENTER AT CALIFORNIA HOSPITAL,Clinic - Free Standing,1400 S GRAND AVE STE 707,,Los Angeles,CA,90015,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197827,HARBOR UCLA FAMILY HEALTH CENTER,Clinic - Free Standing,1403 LOMITA BLVD STE 200,,Harbor City,CA,90710,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106191306,LAC/RANCHO LOS AMIGOS NATIONAL REHABILITATION CENTER,Hospital Inpatient,7601 East Imperial Hwy,,Downey,CA,90242,Los Angeles,Parent Facility,158.0,,Open,Hospital,General Acute Care Hospital
+306191135,ARROYO VISTA FAMILY HEALTH CENTER,Clinic - Free Standing,4815 VALLEY BLVD STE C,,Los Angeles,CA,90032,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106191230,"MARTIN LUTHER KING, JR. COMMUNITY HOSPITAL",Hospital Inpatient,1680 East 120th Street,,Los Angeles,CA,90059,Los Angeles,Parent Facility,131.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190766,COAST PLAZA HOSPITAL,Hospital Inpatient,13100 Studebaker Road,,Norwalk,CA,90650,Los Angeles,Parent Facility,117.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306197351,FAMILY CLINIC OF LONG BEACH,Clinic - Free Standing,1045 ATLANTIC AVE STE 508,,Long Beach,CA,90813,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190708,SHERMAN OAKS HOSPITAL,Hospital Inpatient,4929 Van Nuys Blvd,,Sherman Oaks,CA,91403,Los Angeles,Parent Facility,153.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306197165,ARROYO VISTA FAMILY HEALTH CENTER - HUNTINGTON DR,Clinic - Free Standing,4837 HUNTINGTON DR N STE 1,,Los Angeles,CA,90032,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106560492,LOS ROBLES HOSPITAL AND MEDICAL CENTER,Hospital Inpatient,215 W Janss Rd,,Thousand Oaks,CA,91360,Ventura,Parent Facility,325.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+406190789,HOLDING HANDS INC, ,2101 N GLENOAKS BLVD,,Burbank,CA,91504,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Hospice
+106190380,SOUTHERN CALIFORNIA HOSPITAL AT HOLLYWOOD,Hospital Inpatient,6245 De Longpre Avenue,,Los Angeles,CA,90028,Los Angeles,Parent Facility,100.0,,Open,Hospital,General Acute Care Hospital
+306190365,NEWHALL HEALTH CENTER,Special Facility - Other,23413 LYONS AVE,,Valencia,CA,91355,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198326,COMMUNITY MEDICINE INC.,Clinic - Federally Qualified Health Center (FQHC),8540 ALONDRA BLVD STE B2,,Paramount,CA,90723,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190696,PACIFICA HOSPITAL OF THE VALLEY,Hospital Inpatient,9449 San Fernando Road,,Sun Valley,CA,91352,Los Angeles,Parent Facility,231.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306190513,BEVERLYCARE,Special Facility - Other,101 E BEVERLY BLVD STE 303,,Montebello,CA,90640,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190857,WEST COVINA MEDICAL CENTER,Hospital Inpatient,725 South Orange Avenue,,West Covina,CA,91790,Los Angeles,Consolidated Facility,46.0,,Open,Hospital,General Acute Care Hospital
+206198360,CEASAR A VALLE, ,3325 PALO VERDE AVE STE 203,,Long Beach,CA,90808,Los Angeles,Parent Facility,6.0,Not Applicable,Open,Long Term Care Facility,Congregate Living Health Facility
+406391550,APLA HEALTH AND WELLNESS,Clinic - Hospital Based or Independent,1043 ELM AVE STE 302,,Long Beach,CA,90813,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306196808,NORWALK REGIONAL HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),12360 FIRESTONE BLVD,,Norwalk,CA,90650,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306014112,LA PUENTE HEALTH CENTER,Clinic - Free Standing,15930 CENTRAL AVE,,La Puente,CA,91744,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197007,TARZA TREATMENT CENTER FAMILY MEDICAL CLINIC,Clinic - Free Standing,18646 OXNARD ST,,Tarzana,CA,91356,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106196405,PALMDALE REGIONAL MEDICAL CENTER,Hospital Inpatient,38600 Medical Center Drive,,Palmdale,CA,93551,Los Angeles,Parent Facility,190.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306196135,AHF HEALTHCARE CENTER - VALLEY,Clinic - Free Standing,4835 VAN NUYS BLVD STE 114,,Sherman Oaks,CA,91403,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206190142,GLENDALE HEALTH CENTER,Clinic - Free Standing,501 N GLENDALE AVE,,Glendale,CA,91206,Los Angeles,Parent Facility,48.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+106300032,CHILDREN'S HOSPITAL OF ORANGE COUNTY,Hospital Inpatient,1201 West La Veta Avenue,,Orange,CA,92868,Orange,Parent Facility,334.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306014342,ARLETA HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),8902 WOODMAN AVE,,Pacoima,CA,91331,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306454008,VISTA COMMUNITY HEALTH CENTER,Clinic - Free Standing,14124 FOOTHILL BLVD STE 100,,Sylmar,CA,91342,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306195099,COMMUNITY HEALTH CARE CLINIC/N.P.P.,Clinic - Free Standing,942 S ATLANTIC BLVD,,Los Angeles,CA,90022,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406196267,ACCUMEN HEALTHCARE, ,7840 IMPERIAL HWY STE B,,Downey,CA,90242,Los Angeles,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+206310904,AHF HEALTHCARE CENTER - WESTSIDE,Clinic - Free Standing,99 N LA CIENEGA BLVD STE 107,,Beverly Hills,CA,90211,Los Angeles,Parent Facility,205.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306371285,SAN YSIDRO HEALTH CENTER - OCEAN VIEW BLVD,Clinic - Federally Qualified Health Center (FQHC),875 EL CAJON BLVD,,EL CAJON,CA,92020,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190567,NORTHEAST VALLEY HEALTH CORP,Clinic - Free Standing,7843 LANKERSHIM BLVD,,North Hollywood,CA,91605,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197647,MISSION CITY COMMUNITY NETWORK - MONROVIA,Clinic - Free Standing,513 E LIME AVE STE 101,,Monrovia,CA,91016,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190053,ST. MARY MEDICAL CENTER LONG BEACH,Hospital Inpatient,1050 Linden Avenue,,Long Beach,CA,90813,Los Angeles,Parent Facility,360.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306198083,LAKE LOS ANGELES COMMUNITY CLINIC,Clinic - Free Standing,16921 E AVENUE O STE G,,Palmdale,CA,93591,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190446,ALTAMED MEDICAL GROUP - E.L.A./WHITTIER,Clinic - Free Standing,5427 E WHITTIER BLVD,,Los Angeles,CA,90022,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197265,DE NOVO HEALTH CARE,Clinic - Federally Qualified Health Center (FQHC),803 E ROSECRANS AVE,,Compton,CA,90221,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106190045,CATALI ISLAND MEDICAL GROUP,Special Facility - Other,100 FALLS CANYON RD,,Avalon,CA,90704,Los Angeles,Parent Facility,12.0,Emergency - Standby,Open,Hospital,General Acute Care Hospital
+306191109,CHINATOWN SERVICE CENTER FAMILY HEALTH CLINIC,Clinic - Free Standing,767 N HILL ST STE 200A,,Los Angeles,CA,90012,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206190034,ALTERNATIVE HEALTHCARE CENTER,Clinic - Free Standing,3000 W OLYMPIC BLVD,STE 308,Los Angeles,CA,90006,Los Angeles,Parent Facility,6.0,Not Applicable,Open,Long Term Care Facility,Congregate Living Health Facility
+306198053,WESLEY HEALTH CENTERS,Clinic - Free Standing,3590 E IMPERIAL HWY STE 5,,Lynwood,CA,90262,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306374261,SAN YSIDRO HEALTH CENTER - S EUCLID,Clinic - Federally Qualified Health Center (FQHC),4050 BEYER BLVD,,SAN YSIDRO,CA,92173,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+206190823,ZEN HEALTHCARE CENTER,Clinic - Free Standing,3150 E IMPERIAL HWY,STE 200,Lynwood,CA,90262,Los Angeles,Parent Facility,99.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306431874,COMMUNICARE HEALTH CENTERS,Clinic - Federally Qualified Health Center (FQHC),954 SACRAMENTO AVE,,WEST SACRAMENTO,CA,95605,Yolo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306370687,SAN YSIDRO HEALTH BEHAVORIAL HLTH CTR - PARK LN,Clinic - Federally Qualified Health Center (FQHC),1666 PRECISION PARK LN,,SAN DIEGO,CA,92173,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190745,ST. JOHN'S COMMUNITY HEALTH,Special Facility - Other,15715 S ATLANTIC AVE FL 2,,Compton,CA,90221,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196244,BAART COMMUNITY HEALTHCARE - BEVERLY,Clinic - Free Standing,1926 BEVERLY BLVD,,Los Angeles,CA,90057,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306010021,VALLEY COMMUNITY CLINIC,Clinic - Free Standing,6801 COLDWATER CANYON AVE STE 2A,,North Hollywood,CA,91605,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106301234,LA PALMA INTERCOMMUNITY HOSPITAL,Hospital Inpatient,7901 Walker Street,,La Palma,CA,90623,Orange,Parent Facility,138.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106190570,NORWALK COMMUNITY HOSPITAL,Hospital Inpatient,13222 Bloomfield Avenue,,Norwalk,CA,90650,Los Angeles,Consolidated Facility,50.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306197238,AVICENNA MEDICAL CLINIC,Clinic - Free Standing,18445 VANOWEN ST,STE A,Reseda,CA,91335,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406190416,HEALTHCARE LA IPA, ,47915 OASIS ST,,INDIO,CA,92201,Riverside,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+406014217,"MAXIM HEALTHCARE SERVICES, INC", ,1 RIDGEGATE DR,STE 200,TEMECULA,CA,92590,Riverside,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306190639,3C COMMUNITY CLINIC,Clinic - Free Standing,3030 W OLYMPIC BLVD,STE 206,Los Angeles,CA,90006,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306130502,INNERCARE - EL CENTRO CLINIC,Clinic - Federally Qualified Health Center (FQHC),852 E DANENBERG DR,,EL CENTRO,CA,92243,Imperial,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306134020,INNERCARE - BRAWLEY CLINIC,Clinic - Federally Qualified Health Center (FQHC),223 W COLE BLVD,,CALEXICO,CA,92231,Imperial,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406300038,ADVANCED THERAPY SERVICES INC, ,2648 MAIN ST,STE B,CHULA VISTA,CA,91911,San Diego ,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+306195036,WEST COUNTY MEDICAL CLINIC,Clinic - Free Standing,100 E MARKET ST,,Long Beach,CA,90805,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106430779,GOOD SAMARITAN HOSPITAL LA,Hospital Inpatient,1225 Wilshire Blvd,,Los Angeles,CA,90017,Los Angeles,Parent Facility,404.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306370619,SAN YSIDRO HEALTH URGENT CARE,Clinic - Federally Qualified Health Center (FQHC),3364 BEYER BLVD,,SAN YSIDRO,CA,92173,San Diego ,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306304335,CALEXICO HEALTH CENTER,Clinic - Community Mental Health Center,450 E BIRCH ST,,CALEXICO,CA,92231,Imperial,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306364382,CENTRAL HEIGHBORHOOD HEALTH FOUNDATION - RIVERSIDE,Clinic - Federally Qualified Health Center (FQHC),3750 ARLINGTON AVE,,RIVERSIDE,CA,92506,Riverside,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106344011,MERCY SEAT MENTAL HEALTH TREATMENT CENTER, ,1640 2ND ST STE 105,,NORCO,CA,92860,Riverside,Parent Facility,50.0,Not Applicable,Open,Hospital,Psychiatric Health Facility
+306197646,MISSION CITY COMMUNITY NETWORK - ORANGE GROVE AVE,Clinic - Federally Qualified Health Center (FQHC),1818 N ORANGE GROVE AVE,STE 205,POMONA,CA,91767,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306014240,NATIVE AMERICAN HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),160 Capp Street,,SAN FRANCISCO,CA,94110,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306384214,MISSION NEIGHBORHOOD RESOURCE CENTER,Clinic - Federally Qualified Health Center (FQHC),165 CAPP STREET,,SAN FRANCISCO,CA,94110,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+406134021,GELLERT HEALTH SERVICES,Clinic - Free Standing,386 Gellert Blvd,,DALY CITY,CA,94015,San Mateo,Parent Facility,,Not Applicable,Open,Home Health Agency/Hospice,Home Health Agency
+106380939,ZUCKERBERG SAN FRANCISCO GENERAL HOSPITAL AND TRAUMA CENTER,Hospital Inpatient,1001 Potrero Avenue,,SAN FRANCISCO,CA,94110,San Francisco,Parent Facility,397.0,Emergency - Comprehensive,Open,Hospital,General Acute Care Hospital
+306414128,"NORTH EAST MEDICAL SERVICES - 211 EASTMOOR, DALY CITY",Clinic - Free Standing,211 EASTMOOR AVENUE,,DALY CITY,CA,94015,San Mateo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306384221,SOUTH OF MARKET HEALTH CENTER SENIOR CLINIC,Clinic - Federally Qualified Health Center (FQHC),317 Clementina Street,,SAN FRANCISCO,CA,94103,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306040425,ZSFG CHILDREN'S HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1001 Potrero Avenue,Bldg 5 6M,SAN FRANCISCO,CA,94110,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306434262,NORTH EAST MEDICAL SERVICES - 82 LELAND,Clinic - Federally Qualified Health Center (FQHC),82 Leland Avenue,,San Francisco,CA,94134,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106384200,UCSF MEDICAL CENTER AT MISSION BAY - 3RD FLOOR, ,1825 4th St,3rd Flr,SAN FRANCISCO,CA,94143,San Francisco,Consolidated Facility,289.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306384201,ST ANTHONY MEDICAL CLINIC,Clinic - Federally Qualified Health Center (FQHC),150 Golden Gate Avenue,2nd floor,SAN FRANCISCO,CA,94102,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106382715,CHINESE HOSPITAL,Hospital Inpatient,845 Jackson Street,,SAN FRANCISCO,CA,94133,San Francisco,Parent Facility,88.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+106010776,UCSF BENIOFF CHILDREN'S HOSPITAL - OAKLAND, ,747 52nd St,,OAKLAND,CA,94609,Alameda,Parent Facility,163.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306384225,NORTH EAST MEDICAL SERVICES - 1033 CLEMENT,Clinic - Federally Qualified Health Center (FQHC),1033 Clement Street,,SAN FRANCISCO,CA,94118,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306384227,NORTH EAST MEDICAL SERVICES - 1400 NORIEGA,Clinic - Federally Qualified Health Center (FQHC),1400 Noriega Street,,SAN FRANCISCO,CA,94122,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306384207,NORTH EAST MEDICAL SERVICES - 2574 SAN BRUNO AVE,Clinic - Federally Qualified Health Center (FQHC),2574 San Bruno Avenue,,SAN FRANCISCO,CA,94134,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197868,YOUTH GUIDANCE CENTER, ,375 WOODSIDE AVENUE,,SAN FRANCISCO,CA,94127,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Psychology Clinic
+206010866,OCEAN PARK HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),1351 24th Avenue,,SAN FRANCISCO,CA,94122,San Francisco,Parent Facility,35.0,Not Applicable,Open,Long Term Care Facility,Skilled Nursing Facility
+306384045,MISSION NEIGHBORHOOD HEALTH CENTER - EXCELSIOR,Clinic - Federally Qualified Health Center (FQHC),4434 Mission Street,,San Francisco,CA,94112,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306214048,MARIN CITY HEALTH AND WELLNESS CENTER,Clinic - Federally Qualified Health Center (FQHC),630 Drake Avenue,,SAUSALITO,CA,94965,Marin,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+106211006,MARINHEALTH MEDICAL CENTER HOSPITALIST, ,250 BON AIR RD,,GREENBRAE,CA,94904,Marin,Parent Facility,327.0,Emergency - Basic,Open,Hospital,General Acute Care Hospital
+306382735,CURRY SENIOR CENTER,Clinic - Federally Qualified Health Center (FQHC),333 Turk Street,,San Francisco,CA,94102,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306184010,SOUTHEAST HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),2401 Keith Street,,SAN FRANCISCO,CA,94124,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306384229,BAYVIEW CHILD HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),3450 3rd Street,Units 2A & 2B,San Francisco,CA,94124,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306214065,ZSFG FAMILY BIRTH CENTER, ,1001 POTRERO AVENUE,BLDG 25,SAN FRANCISCO,CA,94110,San Francisco,Parent Facility,,Not Applicable,Open,Clinic,Alternative Birthing Center
+306197674,CRENSHAW COMMUNITY CLINIC,Clinic - Federally Qualified Health Center (FQHC),3631 CRENSHAW BLVD,STE 109,LOS ANGELES,CA,90016,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198408,ALTAMED MEDICAL AND DENTAL GROUP EL MONTE,Clinic - Federally Qualified Health Center (FQHC),10418 VALLEY BLVD,STE B,EL MONTE,CA,91731,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197668,ALTAMED MEDICAL AND DENTAL GROUP EAST LOS ANGELES 1ST STREET,Clinic - Federally Qualified Health Center (FQHC),2219 E 1ST ST,,LOS ANGELES,CA,90033,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197629,ALTAMED MEDICAL GROUP WEST COVINA,Clinic - Federally Qualified Health Center (FQHC),1300 S SUNSET AVE,,WEST COVINA,CA,91790,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197956,ALTAMED MEDICAL GROUP HUNTINGTON PARK,Clinic - Federally Qualified Health Center (FQHC),1900 E SLAUSON AVE,,HUNTINGTON PARK,CA,90255,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197858,ALTAMED MEDICAL GROUP PICO RIVERA PASSONS,Clinic - Federally Qualified Health Center (FQHC),6336 PASSONS BLVD,,PICO RIVERA,CA,90660,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198400,MISSION CITY COMMUNITY NETWORK SEPULVEDA,Clinic - Federally Qualified Health Center (FQHC),8527 SEPULVEDA BLVD,,NORTH HILLS,CA,91343,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190571,BENEVOLENCE HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),611 E IMPERIAL HWY,STE 107,LOS ANGELES,CA,90059,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306190020,ALTAMED MEDICAL GROUP PASADENA,Clinic - Federally Qualified Health Center (FQHC),2661 E WASHINGTON BLVD,,PASADENA,CA,91107,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306360020,TRI STATE COMMUNITY HEALTHCARE CENTER LOS ANGELES,Clinic - Federally Qualified Health Center (FQHC),4137 VERDUGO RD,,LOS ANGELES,CA,90065,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306197648,MISSION CITY COMMUNITY NETWORK PARTHENIA,Clinic - Federally Qualified Health Center (FQHC),15210 PARTHENIA ST,,NORTH HILLS,CA,91343,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306198060,MEDICUS INTEGRATED HEALTH SERVICES C, ,1800 SULLIVAN AVE,STE 101,DALY CITY,CA,94015,San Mateo,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196283,SABAN COMMUNITY CLINIC HOLLYWOOD WILSHIRE HEALTH CENTER,Clinic - Federally Qualified Health Center (FQHC),5205 MELROSE AVE,,LOS ANGELES,CA,90038,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
+306196696,ARROYO VISTA FAMILY HEALTH CENTER LINCOLN HEIGHTS,Clinic - Federally Qualified Health Center (FQHC),2411 N BROADWAY,,LOS ANGELES,CA,90031,Los Angeles,Parent Facility,,Not Applicable,Open,Clinic,Community Clinic
