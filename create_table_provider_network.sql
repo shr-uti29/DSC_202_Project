@@ -1,0 +1,18 @@
+CREATE TABLE ProviderNetwork (
+    ProviderID SERIAL PRIMARY KEY,
+    FirstName TEXT NOT NULL,
+    LastName TEXT NOT NULL,
+    ManagedCarePlan TEXT NOT NULL,
+    SubNetwork TEXT,
+    NPI INTEGER NOT NULL,
+    Taxonomy VARCHAR CHECK (Taxonomy ~ '^[a-zA-Z0-9]+$'),
+    MCNAProviderGroup TEXT,
+    MCNAProviderType TEXT,
+    LicensureType VARCHAR(4),
+    PrimaryCare CHAR(1) CHECK (PrimaryCare IN ('Y', 'N')),
+    Specialist CHAR(1) CHECK (Specialist IN ('Y', 'N')),
+    SeesChildren TEXT CHECK (SeesChildren IN ('Both', 'Only', 'No')),
+    Telehealth TEXT CHECK (Telehealth IN ('Both', 'Only', 'No')),
+    BHIndicator TEXT,
+    OSHPD_ID INTEGER,
+);

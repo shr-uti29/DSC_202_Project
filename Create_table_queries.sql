@@ -1,0 +1,18 @@
+CREATE TABLE insurance_data (
+    ID INT Primary Key,
+    County VARCHAR2(100),
+    Health_Plan_Name VARCHAR2(255),
+    Category_of_Aid VARCHAR2(255),
+    Lower_Bound VARCHAR2(20),
+    Midpoint VARCHAR2(20),
+    Upper_Bound VARCHAR2(20)
+);
+
+CREATE TABLE taxonomy_data (
+    PROVIDER_TAXONOMY_CODE Primary Key,
+    MEDICARE_PROVIDER/SUPPLIER_TYPE_DESCRIPTION VARCHAR2(255),
+    PROVIDER_TAXONOMY_DESCRIPTION VARCHAR2(255),
+    MEDICARE SPECIALTY CODE VARCHAR2(255),
+    CONSTRAINT Taxonomy_code_check
+        CHECK (PROVIDER_TAXONOMY_CODE ~ '^[A-Za-z0-9]+$')
+);
