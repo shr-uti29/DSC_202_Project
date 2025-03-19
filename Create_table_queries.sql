@@ -1,18 +1,18 @@
 CREATE TABLE insurance_data (
     ID INT Primary Key,
-    County VARCHAR2(100),
-    Health_Plan_Name VARCHAR2(255),
-    Category_of_Aid VARCHAR2(255),
-    Lower_Bound VARCHAR2(20),
-    Midpoint VARCHAR2(20),
-    Upper_Bound VARCHAR2(20)
+    County VARCHAR(100),
+    Health_Plan_Name VARCHAR(255),
+    Category_of_Aid VARCHAR(255),
+    Lower_Bound VARCHAR(20),
+    Midpoint VARCHAR(20),
+    Upper_Bound VARCHAR(20)
 );
 
 CREATE TABLE taxonomy_data (
-    PROVIDER_TAXONOMY_CODE Primary Key,
-    MEDICARE_PROVIDER/SUPPLIER_TYPE_DESCRIPTION VARCHAR2(255),
-    PROVIDER_TAXONOMY_DESCRIPTION VARCHAR2(255),
-    MEDICARE SPECIALTY CODE VARCHAR2(255),
+    PROVIDER_TAXONOMY_CODE TEXT Primary Key,
+    MEDICARE_PROVIDER_SUPPLIER_TYPE_DESCRIPTION VARCHAR(255),
+    PROVIDER_TAXONOMY_DESCRIPTION VARCHAR(255),
+    MEDICARE_SPECIALTY_CODE VARCHAR(255),
     CONSTRAINT Taxonomy_code_check
         CHECK (PROVIDER_TAXONOMY_CODE ~ '^[A-Za-z0-9]+$')
 );
@@ -61,5 +61,5 @@ CREATE TABLE ProviderNetwork (
     SeesChildren TEXT CHECK (SeesChildren IN ('Both', 'Only', 'No')),
     Telehealth TEXT CHECK (Telehealth IN ('Both', 'Only', 'No')),
     BHIndicator TEXT,
-    OSHPD_ID INTEGER,
+    OSHPD_ID INTEGER
 );
