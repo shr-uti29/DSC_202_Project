@@ -59,5 +59,5 @@ CREATE TABLE ProviderNetwork (
     SeesChildren TEXT CHECK (SeesChildren IN ('Both', 'Only', 'No')),
     Telehealth TEXT CHECK (Telehealth IN ('Both', 'Only', 'No')),
     BHIndicator TEXT,
-    OSHPD_ID INTEGER REFERENCES hospitals(OSHPD_ID),
+    OSHPD_ID INTEGER REFERENCES hospitals(OSHPD_ID)
 );
