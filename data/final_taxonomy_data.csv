@@ -25,10 +25,10 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 208200000X,Physician/General Surgery,Allopathic & Osteopathic Physicians/Plastic Surgery,02
 2082S0099X,Physician/General Surgery,Allopathic & Osteopathic Physicians/Plastic Surgery/Plastic Surgery Within the Head & Neck,02
 2082S0105X,Physician/General Surgery,Allopathic & Osteopathic Physicians/Plastic Surgery/Surgery of the Hand,02
-207K00000X ,Physician/Allergy/ Immunology,Allopathic & Osteopathic Physicians/Allergy and Immunology,03
+207K00000X,Physician/Allergy/ Immunology,Allopathic & Osteopathic Physicians/Allergy and Immunology,03
 207KA0200X,Physician/Allergy/ Immunology,Allopathic & Osteopathic Physicians/Allergy and Immunology/Allergy,03
 207KI0005X,Physician/Allergy/ Immunology,Allopathic & Osteopathic Physicians/Allergy and Immunology/Clinical & Laboratory Immunology,03
-207Y00000X ,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/ Otolaryngology ,04
+207Y00000X,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/ Otolaryngology ,04
 207YS0123X,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/ Otolaryngology/Facial Plastic Surgery,04
 207YX0602X,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/Otolaryngology/Otolaryngic Allergy,04
 207YX0905X,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/Otolaryngology/Otolaryngology/Facial Plastic Surgery,04
@@ -36,20 +36,20 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 207YP0228X,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/Otolaryngology/Pediatric Otolaryngology,04
 207YX0007X,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/Otolaryngology/Plastic Surgery within the Head & Neck,04
 207YS0012X,Physician/Otolaryngology,Allopathic & Osteopathic Physicians/Otolaryngology/Sleep Medicine,04
-207L00000X ,Physician/Anesthesiology,Allopathic & Osteopathic Physicians/Anesthesiology,05
+207L00000X,Physician/Anesthesiology,Allopathic & Osteopathic Physicians/Anesthesiology,05
 207LA0401X,Physician/Anesthesiology,Allopathic & Osteopathic Physicians/Anesthesiology/Addiction Medicine,05
 207LC0200X,Physician/Anesthesiology,Allopathic & Osteopathic Physicians/Anesthesiology/Critical Care Medicine,05
 207LH0002X,Physician/Anesthesiology,Allopathic & Osteopathic Physicians/Anesthesiology/Hospice and Palliative Medicine,05
 207LP2900X,Physician/Anesthesiology,Allopathic & Osteopathic Physicians/Anesthesiology/Pain Medicine,05
 207LP3000X,Physician/Anesthesiology,Allopathic & Osteopathic Physicians/Anesthesiology/Pediatric Anesthesiology,05
 207RC0000X,Physician/Cardiovascular Disease (Cardiology),"Allopathic & Osteopathic Physicians/Internal Medicine, Cardiovascular Disease",06
-207N00000X ,Physician/Dermatology,Allopathic & Osteopathic Physicians/Dermatology,07
+207N00000X,Physician/Dermatology,Allopathic & Osteopathic Physicians/Dermatology,07
 207NI0002X,Physician/Dermatology,"Allopathic & Osteopathic Physicians/Dermatology, Clinical & Laboratory Dermatological Immunology",07
 207ND0101X,Physician/Dermatology,"Allopathic & Osteopathic Physicians/Dermatology, MOHS-Micrographic Surgery",07
 207ND0900X,Physician/Dermatology,"Allopathic & Osteopathic Physicians/Dermatology, Dermapathology",07
 207NP0225X,Physician/Dermatology,"Allopathic & Osteopathic Physicians/Dermatology, Pediatric Dermatology",07
 207NS0135X,Physician/Dermatology,"Allopathic &Osteopathic Physicians/Dermatology, Procedural Dermatology",07
-207Q00000X ,Physician/Family Practice,Allopathic & Osteopathic Physicians/Family Medicine,08
+207Q00000X,Physician/Family Practice,Allopathic & Osteopathic Physicians/Family Medicine,08
 207QA0401X,Physician/Family Practice,"Allopathic & Osteopathic Physicians/Family Medicine, Addiction Medicine",08
 207QA0000X,Physician/Family Practice,"Allopathic & Osteopathic Physicians/Family Medicine, Adolescent Medicine",08
 207QA0505X,Physician/Family Practice,"Allopathic & Osteopathic Physicians/Family Medicine, Adult Medicine",08
@@ -60,7 +60,7 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 207QS1201X,Physician/Family Practice,"Allopathic & Osteopathic Physicians/Family Medicine, Sleep Medicine",08
 208VP0014X,Physician/Interventional Pain Management,"Allopathic & Osteopathic Physicians/Pain Medicine, Interventional Pain Medicine",09
 207RG0100X,Physician/Gastroenterology,"Allopathic & Osteopathic Physicians/Internal Medicine, Gastroenterology",10
-207R00000X ,Physician/Internal Medicine,Allopathic & Osteopathic Physicians/Internal Medicine,11
+207R00000X,Physician/Internal Medicine,Allopathic & Osteopathic Physicians/Internal Medicine,11
 207RA0401X,Physician/Internal Medicine,"Allopathic & Osteopathic Physicians/Internal Medicine, Addiction Medicine",11
 207RA0000X,Physician/Internal Medicine,"Allopathic & Osteopathic Physicians/Internal Medicine, Adolescent Medicine",11
 207RA0001X,Physician/Internal Medicine,Allopathic & Osteopathic Physicians/Advanced Heart Failure and Transplant Cardiology,11
@@ -91,7 +91,7 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 2084E0001X,Physician/Neurology,"Allopathic & Osteopathic Physicians/Psychiatry and Neurology, Epilepsy",13
 2084A2900X,Physician/Neurology,Allopathic & Osteopathic Physicians/Psychiatry & Neurology/Neurocritical Care,13
 235Z00000X,Speech Language Pathologist,"Speech, Language and Hearing Service Providers   ",15
-207V00000X ,Physician/Obstetrics & Gynecology,Allopathic & Osteopathic Physicians/Obstetrics & Gynecology,16
+207V00000X,Physician/Obstetrics & Gynecology,Allopathic & Osteopathic Physicians/Obstetrics & Gynecology,16
 207VB0002X,Physician/Obstetrics & Gynecology,"Allopathic & Osteopathic Physicians/Obstetrics & Gynecology, Bariatric Medicine",16
 207VC0200X,Physician/Obstetrics & Gynecology,"Allopathic & Osteopathic Physicians/Obstetrics & Gynecology, Critical Care Medicine",16
 207VF0040X,Physician/Obstetrics & Gynecology,"Allopathic & Osteopathic Physicians/Obstetrics & Gynecology, Female Pelvic Medicine and Reconstructive Surgery",16
@@ -105,15 +105,15 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 2084H0002X,Physician/Hospice and Palliative Care,"Allopathic & Osteopathic Physicians/Surgery/Hospice and Palliative Medicine, Neuropsychiatry",17
 207PH0002X,Physician/Hospice and Palliative Care,"Allopathic & Osteopathic Physicians/Surgery/Hospice and Palliative Medicine, Emergency Medicine",17
 207W00000X,Physician/Ophthalmology,Allopathic & Osteopathic Physicians/Ophthalmology,18
-207WX0009X           ,Physician/Ophthalmology,"Allopathic & Osteopathic Physicians/Ophthalmology, Glaucoma Specialist",18
-207WX0107X    ,Physician/Ophthalmology,"Allopathic & Osteopathic Physicians/Ophthalmology, Retina Specialist",18
-207WX0108X    ,Physician/Ophthalmology,"Allopathic & Osteopathic Physicians/Ophthalmology, Uveitis and Ocular Inflammatory Disease",19
+207WX0009X,Physician/Ophthalmology,"Allopathic & Osteopathic Physicians/Ophthalmology, Glaucoma Specialist",18
+207WX0107X,Physician/Ophthalmology,"Allopathic & Osteopathic Physicians/Ophthalmology, Retina Specialist",18
+207WX0108X,Physician/Ophthalmology,"Allopathic & Osteopathic Physicians/Ophthalmology, Uveitis and Ocular Inflammatory Disease",19
 207WX0109X,Physician/Ophthalmology,Allopathic & Osteopathic Physicians/Ophthalmology/Neuro-ophthalmology,18
 207WX0110X,Physician/Ophthalmology,Allopathic & Osteopathic Physicians/Ophthalmology/Pediatric Ophthalmology and Strabismus Specialist,18
 207WX0120X,Physician/Ophthalmology,"Allopathic & Osteopathic Physicians/Ophthalmology, Cornea and External Diseases Specialist",18
 207WX0200X,Physician/Ophthalmology,Allopathic & Osteopathic Physicians/Ophthalmic Plastic and Reconstructive Surgery,18
 1223S0112X,Oral Surgery (Dentist only),"Allopathic & Osteopathic Physicians/Ophthalmology, Dental Providers/Dentist, Oral & Maxillofacial Surgery",19
-207X00000X ,Physician/Orthopedic Surgery,Allopathic & Osteopathic Physicians/Orthopedic Surgery,20
+207X00000X,Physician/Orthopedic Surgery,Allopathic & Osteopathic Physicians/Orthopedic Surgery,20
 207RC0001X,Clinical Cardiac Electrophysiology,"Allopathic & Osteopathic Physicians/Internal Medicine, Clinical Cardiatric Electrophysiology",21
 207ZP0101X,Physician/Pathology,"Allopathic & Osteopathic Physicians/Pathology, Anatomic Pathology",22
 207ZP0102X,Physician/Pathology,"Allopathic & Osteopathic Physicians/Pathology, Anatomic Pathology & Clinical Pathology",22
@@ -129,7 +129,7 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 207ZM0300X,Physician/Pathology,"Allopathic & Osteopathic Physicians/Pathology, Medical Microbiology",22
 207ZP0007X,Physician/Pathology,"Allopathic & Osteopathic Physicians/Pathology, Molecular Genetic Pathology",22
 207ZN0500X,Physician/Pathology,"Allopathic & Osteopathic Physicians/Pathology, Neuropathology",22
-207ZP0213X  ,Physician/Pathology,"Allopathic & Osteopathic Physicians/Pathology, Pediatric Pathology",22
+207ZP0213X,Physician/Pathology,"Allopathic & Osteopathic Physicians/Pathology, Pediatric Pathology",22
 207ZC0008X,Physician/Pathology,Allopathic & Osteopathic Physicians/Pathology/Clinical Informatics,22
 207PS0010X,Physician/Sports Medicine,"Allopathic & Osteopathic Physicians/Emergency Medicine, Sports Medicine",23
 2080S0010X,Physician/Sports Medicine,"Allopathic & Osteopathic Physicians/Pediatrics, Sports Medicine",23
@@ -137,9 +137,9 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 2081S0010X,Physician/Sports Medicine,"Allopathic & Osteopathic Physicians/Physical Medicine & Rehabilitation, Sports Medicine",23
 2083S0010X,Physician/Sports Medicine,"Allopathic & Osteopathic Physicians/Preventive Medicine, Sports Medicine",23
 2084S0010X,Physician/Sports Medicine,"Allopathic & Osteopathic Physicians/ Psychiatry & Neurology, Sports Medicine",23
-208200000X ,Physician/Plastic and Reconstructive Surgery,Allopathic & Osteopathic Physicians/Plastic Surgery,24
+208200000X,Physician/Plastic and Reconstructive Surgery,Allopathic & Osteopathic Physicians/Plastic Surgery,24
 208100000X,Physician/Physical Medicine and Rehabilitation,Allopathic & Osteopathic Physicians/Physical Medicine & Rehabilitation,25
-2081H0002X ,Physician/Physical Medicine and Rehabilitation,"Allopathic & Osteopathic Physicians/Physical Medicine & Rehabilitation, Hospice and Palliative Medicine",25
+2081H0002X,Physician/Physical Medicine and Rehabilitation,"Allopathic & Osteopathic Physicians/Physical Medicine & Rehabilitation, Hospice and Palliative Medicine",25
 2081N0008X,Physician/Physical Medicine and Rehabilitation,"Allopathic & Osteopathic Physicians/Physical Medicine & Rehabilitation, Neuromuscular Medicine",25
 2081P2900X,Physician/Physical Medicine and Rehabilitation,"Allopathic & Osteopathic Physicians/Physical Medicine & Rehabilitation, Pain Medicine",25
 2081P0010X,Physician/Physical Medicine and Rehabilitation,"Allopathic & Osteopathic Physicians/Physical Medicine & Rehabilitation, Pediatric Rehabilitation Medicine",25
@@ -154,10 +154,10 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 163WC3500X,Intensive Cardiac Rehabilitation,"Nursing Service Providers, Registered Nurse, Cardiac Rehabilitation",31
 261QR0404X,Intensive Cardiac Rehabilitation,"Cardiac Rehabilitation,Clinic/Center",31
 367H00000X,Anesthesiology Assistant,Physician Assistants & Advanced Practice Nursing Providers/Anesthesiologist Assistant,32
-208800000X ,Physician/Urology,Allopathic & Osteopathic Physicians/Urology,34
+208800000X,Physician/Urology,Allopathic & Osteopathic Physicians/Urology,34
 2088P0231X,Physician/Urology,"Allopathic & Osteopathic Physicians/Urology, Pediatric Urology",34
 2088F0040X,Physician/Urology,Female Pelvic Medicine & Reconstructive Surgery,34
-111N00000X ,Chiropractic,Chiropractic Providers/Chiropractor,35
+111N00000X,Chiropractic,Chiropractic Providers/Chiropractor,35
 111NI0013X,Chiropractic,"Chiropractic Providers/Chiropractor, Independent Medical Examiner",35
 111NI0900X,Chiropractic,"Chiropractic Providers/Chiropractor, Internist",35
 111NN0400X,Chiropractic,"Chiropractic Providers/Chiropractor, Neurology",35
@@ -169,12 +169,12 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 111NR0400X,Chiropractic,"Chiropractic Providers/Chiropractor, Rehabilitation",35
 111NS0005X,Chiropractic,"Chiropractic Providers/Chiropractor, Sports Physician",35
 111NT0100X,Chiropractic,"Chiropractic Providers/Chiropractor, Thermography",35
-207U00000X ,Physician/Nuclear Medicine,Allopathic & Osteopathic Physicians/Nuclear Medicine,36
+207U00000X,Physician/Nuclear Medicine,Allopathic & Osteopathic Physicians/Nuclear Medicine,36
 2085N0904X,Physician/Nuclear Medicine,Allopathic & Osteopathic Physicians/Radiology/Neuroradiology/Nuclear Radiology,36
 207UN0903X,Physician/Nuclear Medicine,"Allopathic & Osteopathic Physicians/Nuclear Medicine, In Vivo & In Vitro Nuclear Medicine",36
 207UN0901X,Physician/Nuclear Medicine,"Allopathic & Osteopathic Physicians/Nuclear Medicine, Nuclear Cardiology",36
 207UN0902X,Physician/Nuclear Medicine,"Allopathic & Osteopathic Physicians/Nuclear Medicine, Nuclear Imaging & Therapy",36
-208000000X ,Physician/Pediatric Medicine,Allopathic & Osteopathic Physicians/Pediatrics,37
+208000000X,Physician/Pediatric Medicine,Allopathic & Osteopathic Physicians/Pediatrics,37
 2080A0000X,Physician/Pediatric Medicine,"Allopathic & Osteopathic Physicians/Pediatrics, Adolescent Medicine",37
 2080I0007X,Physician/Pediatric Medicine,"Allopathic & Osteopathic Physicians/Pediatrics, Clinical & Laboratory Immunology",37
 2080P0006X,Physician/Pediatric Medicine,"Allopathic & Osteopathic Physicians/Pediatrics, Developmental–Behavioral Pediatrics",37
@@ -203,13 +203,13 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 152WX0102X,Optometry,"Eye and Vision Service Providers/Optometrist, Occupational Vision",41
 152WP0200X,Optometry,"Eye and Vision Service Providers/Optometrist, Pediatrics",41
 152WS0006X,Optometry,"Eye and Vision Service Providers/Optometrist, Sports Vision",41
-152WV0400X ,Optometry,"Eye and Vision Service Providers/Optometrist, Vision Therapy",41
+152WV0400X,Optometry,"Eye and Vision Service Providers/Optometrist, Vision Therapy",41
 367A00000X,Certified Nurse Midwife,"Physician Assistants & Advanced Practice Nursing Providers/Midwife, Certified Nurse",42
 367500000X,Certified Registered Nurse Anesthetist (CRNA),"Physician Assistants & Advanced Practice Nursing Providers/Nurse Anesthetist, Certified Registered ",43
 261QR0208X,Mammography Center,"Ambulatory Health Care Facilities/Clinic-Center, Radiology, Mammography",45
 261QR0207X,Mammography Center,"Ambulatory Health Care Facilities/Clinic-Center, Radiology, Mobile Mammography",45
 293D00000X,Independent Diagnostic Testing Facility (IDTF),Laboratories/Physiological Laboratory,47
-213E00000X ,Podiatry,Podiatric Medicine & Surgery Service Providers/Podiatrist,48
+213E00000X,Podiatry,Podiatric Medicine & Surgery Service Providers/Podiatrist,48
 213ES0103X,Podiatry,"Podiatric Medicine & Surgery Service Providers/Podiatrist, Foot & Ankle Surgery",48
 213ES0131X,Podiatry,"Podiatric Medicine & Surgery Service Providers/Podiatrist, Foot Surgery",48
 213EG0000X,Podiatry,"Podiatric Medicine & Surgery Service Providers/Podiatrist, General Practice",48
@@ -218,7 +218,7 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 213ER0200X,Podiatry,"Podiatric Medicine & Surgery Service Providers/Podiatrist, Radiology",48
 213ES0000X,Podiatry,"Podiatric Medicine & Surgery Service Providers/Podiatrist, Sports Medicine",48
 261QA1903X,Ambulatory Surgical Center,"Ambulatory Health Care Facilities/Clinic-Center, Ambulatory Surgical",49
-363L00000X ,Nurse Practitioner,Physician Assistants & Advanced Practice Nursing Providers/Nurse Practitioner,50
+363L00000X,Nurse Practitioner,Physician Assistants & Advanced Practice Nursing Providers/Nurse Practitioner,50
 363LA2100X,Nurse Practitioner,"Physician Assistants & Advanced Practice Nursing Providers/Nurse Practitioner, Acute Care",50
 363LA2200X,Nurse Practitioner,"Physician Assistants & Advanced Practice Nursing Providers/Nurse Practitioner, Adult Health",50
 363LC1500X,Nurse Practitioner,"Physician Assistants & Advanced Practice Nursing Providers/Nurse Practitioner, Community Health",50
@@ -237,12 +237,9 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 363LS0200X,Nurse Practitioner,"Physician Assistants & Advanced Practice Nursing Providers/Nurse Practitioner, School",50
 363LW0102X,Nurse Practitioner,"Physician Assistants & Advanced Practice Nursing Providers/Nurse Practitioner, Women’s Health",50
 335E00000X,Medical Supply Company with Orthotist,Suppliers/Prosthetic/Orthotic Supplier,51
-332B00000X ,Other Medical Supply Company,Suppliers/Durable Medical Equipment & Medical Supplies,54
+332B00000X,Other Medical Supply Company,Suppliers/Durable Medical Equipment & Medical Supplies,54
 222Z00000X,Individual Certified Orthotist,"Respiratory, Developmental, Rehabilitative, and Restorative Service Providers/Orthotist",55
-"224P00000X
-
-",Individual Certified Prosthetist,"Respiratory, Developmental, Rehabilitative, and Restorative Service Providers/Prosthetist
-",56
+224P00000X,Individual Certified Prosthetist,"Respiratory, Developmental, Rehabilitative, and Restorative Service Providers/Prosthetist",56
 229N00000X,Individual Certified Prosthetist,"Respiratory, Developmental, Rehabilitative, and Restorative Service Providers/Anaplastologist",56
 224P00000X,Individual Certified Prosthetist-Orthotist,"Respiratory, Developmental, Rehabilitative, and Restorative Service Providers/Prosthetist",57
 333600000X,Medical Supply Company with Pharmacist,Suppliers/Pharmacy,58
@@ -256,13 +253,13 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 3336M0003X,Medical Supply Company with Pharmacist,"Suppliers/Pharmacy, Managed Care Organization Pharmacy",58
 3336N0007X,Medical Supply Company with Pharmacist,"Suppliers/Pharmacy, Nuclear Pharmacy",58
 3336S0011X,Medical Supply Company with Pharmacist,"Suppliers/Pharmacy, Specialty Pharmacy",58
-341600000X ,Ambulance Service Provider,Transportation Services/Ambulance,59
+341600000X,Ambulance Service Provider,Transportation Services/Ambulance,59
 3416A0800X,Ambulance Service Provider,"Transportation Services/Ambulance, Air Transport",59
 3416L0300X,Ambulance Service Provider,"Transportation Services/Ambulance, Land Transport",59
 3416S0300X,Ambulance Service Provider,"Transportation Services/Ambulance, Water Transport",59
 251K00000X,Public Health or Welfare Agency,Agencies/Public Health or Welfare,60
 251V00000X,Voluntary Health or Charitable Agency[1],Agencies/Voluntary or Charitable,61
-103T00000X ,"Psychologist, Clinical",Behavioral Health & Social Service Providers/Psychologist,62
+103T00000X,"Psychologist, Clinical",Behavioral Health & Social Service Providers/Psychologist,62
 103TA0400X,"Psychologist, Clinical","Behavioral Health & Social Service Providers/Psychologist, Addiction (Substance Abuse Disorder)",62
 103TA0700X,"Psychologist, Clinical","Behavioral Health & Social Service Providers/Psychologist, Adult Development & Aging",62
 103TC0700X,"Psychologist, Clinical","Behavioral Health & Social Service Providers/Psychologist, Clinical",62
@@ -290,7 +287,7 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 231H00000X,Audiologist,"Speech, Language and Hearing Service Providers/Audiologist",64
 231HA2500X,Audiologist,"Speech, Language and Hearing Service Providers/Audiologist/Assistive Technology Supplier",64
 231HA2400X,Audiologist,"Speech, Language and Hearing Service Providers/Audiologist, Assistive Technology Practitioner",64
-225100000X ,Physical Therapist in Private Practice,"Respiratory, Developmental, Rehabilitative & Restorative Service Providers/Physical Therapist",65
+225100000X,Physical Therapist in Private Practice,"Respiratory, Developmental, Rehabilitative & Restorative Service Providers/Physical Therapist",65
 2251C2600X,Physical Therapist in Private Practice,"Respiratory, Developmental, Rehabilitative & Restorative Service Providers/Physical Therapist, Cardiopulmonary",65
 2251E1300X,Physical Therapist in Private Practice,"Respiratory, Developmental, Rehabilitative & Restorative Service Providers/Physical Therapist, Electrophysiology, Clinical",65
 2251E1200X,Physical Therapist in Private Practice,"Respiratory, Developmental, Rehabilitative & Restorative Service Providers/Physical Therapist, Ergonomics",65
@@ -315,12 +312,12 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 225XP0200X,Occupational Therapist in Private Practice,"Respiratory, Developmental, Rehabilitative & Restorative Service Providers/Occupational Therapist, Pediatrics",67
 225XP0019X,Occupational Therapist in Private Practice,"Respiratory, Developmental, Rehabilitative & Restorative Service Providers/Occupational Therapist, Physical Rehabilitation",67
 291U00000X,Clinical Laboratory,Laboratories/Clinical Medical Laboratory,69
-261QM1300X ,Clinic or Group Practice,"Ambulatory Health Care Facilities/Clinic/Center, Multi-Specialty  ",70
+261QM1300X,Clinic or Group Practice,"Ambulatory Health Care Facilities/Clinic/Center, Multi-Specialty  ",70
 261QP2000X,Clinic or Group Practice,"Ambulatory Health Care Facilities/Clinic/Center, Physical Therapy",70
 193200000X,Clinic or Group Practice,Group/Multi-Specialty,70
 261Q00000X,Clinic or Group Practice,"Ambulatory Health Care Facilities/Clinic/Center, Multi-Specialty  ",70
 193400000X,Clinic or Group Practice,Group/Single-Specialty,70
-133V00000X ,Registered Dietitian or Nutrition Professional,"Dietary & Nutritional Service Providers/Dietician, Registered",71
+133V00000X,Registered Dietitian or Nutrition Professional,"Dietary & Nutritional Service Providers/Dietician, Registered",71
 133VN1006X,Registered Dietitian or Nutrition Professional,"Dietary & Nutritional Service Providers/Dietician, Registered, Nutrition, Metabolic",71
 133VN1004X,Registered Dietitian or Nutrition Professional,"Dietary & Nutritional Service Providers/Dietician, Registered, Nutrition, Pediatric",71
 133VN1005X,Registered Dietitian or Nutrition Professional,"Dietary & Nutritional Service Providers/Dietician, Registered, Nutrition, Renal",71
@@ -330,7 +327,6 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 133VN1401X,Registered Dietitian or Nutrition Professional,"Dietary & Nutritional Service Providers/Dietician, Registered, Nutrition, Pediatric Critical Care",71
 133VN1501X,Registered Dietitian or Nutrition Professional,"Dietary & Nutritional Service Providers/Dietician, Registered, Nutrition, Sports Dietetics",71
 208VP0000X,Physician/Pain Management,"Allopathic & Osteopathic Physicians/Pain Medicine, Pain Medicine",72
-,Mass Immunizer Roster Biller[2],,73
 261QR0200X,Radiation Therapy Center,"Ambulatory Health Care Facilities/Clinic/Center, Radiology",74
 247200000X,Slide Preparation Facility,"Technologists, Technicians & Other Technical Service Providers/Technician, Other",75
 207L00000X,Physician/Addiction Medicine,"Allopathic & Osteopathic Physicians/Anesthesiology, Addiction Medicine",79
@@ -440,7 +436,7 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 261QM0801X,Community Mental Health Center,"Ambulatory Health Care Facilities/Clinic/Center, Mental Health",B4[14]
 261QR0401X,Comprehensive Outpatient Rehabilitation Facility,"Ambulatory Health Care Facilities/Clinic/Center, Rehabilitation, Comprehensive Outpatient Rehabilitation Facility (CORF)",B4[14]
 261QE0700X,End-Stage Renal Disease Facility,Ambulatory Health Care Facilities/End-Stage Renal Disease (ESRD) Treatment,B4[14]
-261QF0400X ,Federally Qualified Health Center,Ambulatory Health Care Facilities/Federally Qualified Health Center (FQHC),B4[14]
+261QF0400X,Federally Qualified Health Center,Ambulatory Health Care Facilities/Federally Qualified Health Center (FQHC),B4[14]
 251G00000X,Hospice,"Agencies/Hospice Care, Community Based",B4[14]
 291900000X,Histocompatibility Laboratory,Laboratories/Military Clinical Medical Laboratory,B4[14]
 315D00000X,Rehabilitation Agency,"Nursing & Custodial Care Facilities/Hospice, Inpatient",B4[14]
@@ -449,19 +445,19 @@ PROVIDER TAXONOMY CODE,MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION,"PROVIDER TAX
 156FX1700X,Ocularist ,"Eye and Vision Services Providers, Technician/Technologist, Ocularist",B5
 261QS1200X,Physician/Sleep Medicine,Allopathic & Osteopathic Physicians/Ambulatory Health Care Facilities/Sleep Disorder Diagnostic,C0
 207RI0011X,Physician/Interventional Cardiology,"Allopathic & Osteopathic Physicians/Internal Medicine, Interventional Cardiology",C3
-122300000X ,Dentist,"Allopathic & Osteopathic Physicians/Ophthalmology, Dental Providers/Dentist",C5
+122300000X,Dentist,"Allopathic & Osteopathic Physicians/Ophthalmology, Dental Providers/Dentist",C5
 1223G0001X,Dentist,Allopathic & Osteopathic Physicians/General Practice,C5
-208M00000X ,Physician/Hospitalist,Allopathic & Osteopathic Physicians/Hospitalist,C6
-207RA0001X ,Physician/Advanced Heart Failure and Transplant Cardiology,Allopathic & Osteopathic Physicians/Advanced Heart Failure and Transplant Cardiology,C7
-174H00000X ,Medicare Diabetes Preventive Program ,"Other Service Providers, Health Educator",D1
-207SG0201X ,Medical Genetics and Genomics ,Allopathic & Osteopathic Physicians/Clinical Genetics,D3
+208M00000X,Physician/Hospitalist,Allopathic & Osteopathic Physicians/Hospitalist,C6
+207RA0001X,Physician/Advanced Heart Failure and Transplant Cardiology,Allopathic & Osteopathic Physicians/Advanced Heart Failure and Transplant Cardiology,C7
+174H00000X,Medicare Diabetes Preventive Program ,"Other Service Providers, Health Educator",D1
+207SG0201X,Medical Genetics and Genomics ,Allopathic & Osteopathic Physicians/Clinical Genetics,D3
 207SG0202X,Medical Genetics and Genomics ,"Allopathic & Osteopathic Physicians, Medical Genetics/Clinical Biochemical Genetics",D3
 207SG0203X,Medical Genetics and Genomics ,Allopathic & Osteopathic Physicians/ Medical Genetics/Clinical Molecular Genetics,D3
 207SG0205X,Medical Genetics and Genomics ,Allopathic & Osteopathic Physicians/Medical Genetics/Ph.D. Medical Genetics,D3
 207SM0001X,Medical Genetics and Genomics ,Allopathic & Osteopathic Physicians/Medical Genetics/Molecular Genetic Pathology,D3
-207PE0005X ,Undersea and Hyperbaric Medicine ,Allopathic & Osteopathic Physicians/Undersea and Hyperbaric Medicine ,D4
-261QR0405X ,Opioid Treatment Program ,"Ambulatory Health Care Facilities/Clinic/Center, Rehabilitation",D5
+207PE0005X,Undersea and Hyperbaric Medicine ,Allopathic & Osteopathic Physicians/Undersea and Hyperbaric Medicine ,D4
+261QR0405X,Opioid Treatment Program ,"Ambulatory Health Care Facilities/Clinic/Center, Rehabilitation",D5
 207RA0002X,Adult Congenital Heart Disease ,"Allopathic & Osteopathic Physicians, Internal Medicine",D8
 106H00000X,Marriage and Family Therapist ,,E1
 101YM0800X,Mental Health Counselor ,,E2
-101YP2500X ,Licensed Professional Counselor,,E2
+101YP2500X,Licensed Professional Counselor,,E2
