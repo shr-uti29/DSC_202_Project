@@ -1,11 +1,11 @@
 CREATE TABLE insurance_data (
     ID INT Primary Key,
-    County VARCHAR2(100),
-    Health_Plan_Name VARCHAR2(255),
-    Category_of_Aid VARCHAR2(255),
-    Lower_Bound VARCHAR2(20),
-    Midpoint VARCHAR2(20),
-    Upper_Bound VARCHAR2(20)
+    County VARCHAR(100),
+    Health_Plan_Name VARCHAR(255),
+    Category_of_Aid VARCHAR(255),
+    Lower_Bound VARCHAR(20),
+    Midpoint VARCHAR(20),
+    Upper_Bound VARCHAR(20)
 );
 
 CREATE TABLE taxonomy_data (
