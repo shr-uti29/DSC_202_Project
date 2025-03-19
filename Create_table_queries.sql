@@ -1,20 +1,18 @@
 CREATE TABLE insurance_data (
     ID INT Primary Key,
-    County VARCHAR(100),
-    Health_Plan_Name VARCHAR(255),
-    Category_of_Aid VARCHAR(255),
-    Lower_Bound VARCHAR(20),
-    Midpoint VARCHAR(20),
-    Upper_Bound VARCHAR(20)
+    County VARCHAR2(100),
+    Health_Plan_Name VARCHAR2(255),
+    Category_of_Aid VARCHAR2(255),
+    Lower_Bound VARCHAR2(20),
+    Midpoint VARCHAR2(20),
+    Upper_Bound VARCHAR2(20)
 );
 
 CREATE TABLE taxonomy_data (
-    PROVIDER_TAXONOMY_CODE TEXT Primary Key,
+    PROVIDER_TAXONOMY_CODE TEXT Primary Key REFERENCES ProviderNetwork(Taxonomy),
     MEDICARE_PROVIDER_SUPPLIER_TYPE_DESCRIPTION VARCHAR(255),
     PROVIDER_TAXONOMY_DESCRIPTION VARCHAR(255),
-    MEDICARE_SPECIALTY_CODE VARCHAR(255),
-    CONSTRAINT Taxonomy_code_check
-        CHECK (PROVIDER_TAXONOMY_CODE ~ '^[A-Za-z0-9]+$')
+    MEDICARE_SPECIALTY_CODE VARCHAR(255)
 );
 
 CREATE TABLE Hospitals (
@@ -30,8 +28,8 @@ CREATE TABLE Hospitals (
     Facility_level_desc VARCHAR(255),
     Total_number_beds INT,
     Er_service_level_desc VARCHAR(255),
-    Facility_status_desc VARCHAR(255) CHECK (License_type_desc IN ('Open', 'Suspense')),
-    License_type_desc VARCHAR(255) CHECK (License_type_desc IN ('Clinic', 'Home health', 'Hospital', 'Long term care facility')),
+    Facility_status_desc VARCHAR(255) CHECK (Facility_status_desc IN ('Open', 'Suspense')),
+    License_type_desc VARCHAR(255) CHECK (License_type_desc IN ('Clinic', 'Home Health Agency/Hospice', 'Hospital', 'Long Term Care Facility')),
     License_category_desc VARCHAR(255)
 );
 
@@ -52,7 +50,7 @@ CREATE TABLE ProviderNetwork (
     ManagedCarePlan TEXT NOT NULL,
     SubNetwork TEXT,
     NPI INTEGER NOT NULL,
-    Taxonomy VARCHAR CHECK (Taxonomy ~ '^[a-zA-Z0-9]+$'),
+    Taxonomy VARCHAR,
     MCNAProviderGroup TEXT,
     MCNAProviderType TEXT,
     LicensureType VARCHAR(4),
@@ -61,5 +59,5 @@ CREATE TABLE ProviderNetwork (
     SeesChildren TEXT CHECK (SeesChildren IN ('Both', 'Only', 'No')),
     Telehealth TEXT CHECK (Telehealth IN ('Both', 'Only', 'No')),
     BHIndicator TEXT,
-    OSHPD_ID INTEGER
+    OSHPD_ID INTEGER REFERENCES hospitals(OSHPD_ID),
 );
