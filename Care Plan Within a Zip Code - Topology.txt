@@ -1,0 +1,63 @@
+//ZIP
+MATCH (h:Hospital)
+WITH DISTINCT h.zip AS zip_code
+CREATE (:ZIP {code: zip_code});
+
+//LOCATED_IN
+MATCH (h:Hospital)
+MERGE (z:ZIP {code: h.ZIP})
+MERGE (h)-[:LOCATED_IN]->(z);
+ 
+
+//ACCEPTS
+MATCH (p:Provider)-[:WORKS_AT]->(h:Hospital), (m:ManagedCarePlan)
+WHERE p.managedcareplan = m.name  // Ensure provider's plan matches a real ManagedCarePlan
+MERGE (h)-[:ACCEPTS]->(m);
+  
+
+//IS NEAR
+MATCH (z1:ZIP), (z2:ZIP)
+WHERE z1 <> z2  // Avoid self-connections
+WITH z1, z2, abs(toInteger(z1.code) - toInteger(z2.code)) AS zip_difference
+ORDER BY zip_difference ASC  // Sort by numeric proximity
+WITH z1, collect(z2)[..5] AS nearest_neighbors  // Take the 5 closest ZIP codes
+UNWIND nearest_neighbors AS neighbor
+MERGE (z1)-[:IS_NEAR]->(neighbor);
+
+
+//STEP 1: Create a Graph
+
+CALL gds.graph.project(
+  'zipPlanGraph',
+  ['ZIP', 'Hospital', 'ManagedCarePlan'],
+  {
+    LOCATED_IN: {orientation: 'UNDIRECTED'},
+    ACCEPTS: {orientation: 'UNDIRECTED'},
+    IS_NEAR:{orientation:'UNDIRECTED'}
+  }
+);
+
+
+
+//STEP 2: Calculate similarity using the Shortest path from Zip to ManagedCarePlan
+MATCH (z:ZIP), (m:ManagedCarePlan)
+CALL gds.shortestPath.dijkstra.stream('zipPlanGraph', {
+  sourceNode: z,
+  targetNode: m,
+  relationshipWeightProperty: NULL
+})
+YIELD totalCost
+RETURN 
+  z.code AS zip_code,
+  m.name AS plan_name,
+  CASE 
+    WHEN totalCost IS NOT NULL THEN 1.0 / (totalCost + 1)  // Convert distance to similarity
+    ELSE 0
+  END AS similarity_score
+ORDER BY zip_code, plan_name;
+
+
+
+
+
+
