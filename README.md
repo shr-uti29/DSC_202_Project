@@ -8,6 +8,8 @@
 
 Project Presentation Link: [Video Link](https://drive.google.com/file/d/1CGv1ESNjxLSaulY0-mQ_EN-oIcbkYWAu/view?usp=drive_link)
 
+Report Link: [Link](./DSC_202_final_project_report.pdf)
+
 Files: 
 1. Data folder contains the datasets used for this project.
 2. Queries.ipynb is the notebook that contains different PostgreSQL, Neo4j and application queries implemented in python.
