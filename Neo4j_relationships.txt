@@ -1,0 +1,64 @@
+LOAD CSV WITH HEADERS FROM 'file:///providernetwork.csv' AS row
+// Create Provider nodes
+MERGE (p:Provider {ProviderId: row.providerid})
+ON CREATE SET
+p.ProviderID = row.providerid,
+p.FirstName = row.firstname,
+p.LastName = row.lastname,
+p.Taxonomy = row.taxonomy,
+p.MCNAProviderGroup = row.mcnaprovidergroup,
+p.MCNAProviderType = row.mcnaprovidertype,
+p.LicensureType = row.licensuretype,
+p.PrimaryCare = row.primarycare,
+p.Specialist = row.specialist,
+p.SeesChildren = row.seeschildren,
+p.TeleHealth = row.telehealth,
+p.BHIndicator = row.bhindicator,
+p.OSHPD_ID = row.oshpd_id
+// Create ManagedCarePlan nodes
+MERGE (mcp:ManagedCarePlan {name: row.managedcareplan})
+// Create SubNetwork nodes
+MERGE (sn:SubNetwork {name: row.subnetwork})
+// Create Relationships
+MERGE (p)-[:PART_OF]->(sn)
+MERGE (sn)-[:UNDER]->(mcp)
+
+
+LOAD CSV WITH HEADERS FROM 'file:///hospital_data.csv' AS row
+MERGE (h:Hospital {OSHPD_ID: row.OSHPD_ID})
+ON CREATE SET
+  h.FacilityName = row.FacilityName,
+  h.FacilityType = row.FacilityType,
+  h.Address = row.Address,
+  h.Address2 = row.Address2,
+  h.City = row.City,
+  h.State = row.State,
+  h.ZIP = row.ZIP,
+  h.County = row.county,
+  h.FacilityLevelDesc = row.FACILITY_LEVEL_DESC,
+  h.TotalNumberBeds = row.TOTAL_NUMBER_BEDS,
+  h.ERServiceLevelDesc = row.ER_SERVICE_LEVEL_DESC,
+  h.FacilityStatusDesc = row.FACILITY_STATUS_DESC,
+  h.LicenseTypeDesc = row.LICENSE_TYPE_DESC,
+  h.LicenseCategoryDesc = row.LICENSE_CATEGORY_DESC;
+
+MATCH (p:Provider), (h:Hospital)
+WHERE p.OSHPD_ID = h.OSHPD_ID
+MERGE (p)-[:WORKS_AT]->(h);
+
+
+LOAD CSV WITH HEADERS FROM 'file:///taxonomy_data.csv' AS row
+WITH row
+WHERE row.`PROVIDER TAXONOMY CODE` IS NOT NULL AND row.`PROVIDER TAXONOMY CODE` <> ""  
+
+MERGE (t:Taxonomy {code: row.`PROVIDER TAXONOMY CODE`})
+ON CREATE SET 
+  t.Description = row.`PROVIDER TAXONOMY DESCRIPTION:  TYPE, CLASSIFICATION, SPECIALIZATION`,
+  t.MedicareType = row.`MEDICARE PROVIDER/SUPPLIER TYPE DESCRIPTION`,
+  t.SpecialtyCode = row.`MEDICARE SPECIALTY CODE`
+
+WITH t, row  // Pass t and row to the next part of the query
+MATCH (p:Provider {Taxonomy: row.`PROVIDER TAXONOMY CODE`})
+MERGE (p)-[:SPECIALIZES_IN]->(t);
+
+
