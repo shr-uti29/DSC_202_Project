@@ -8,12 +8,13 @@
 
 Project Presentation Link: [Video Link](https://drive.google.com/file/d/1CGv1ESNjxLSaulY0-mQ_EN-oIcbkYWAu/view?usp=drive_link)
 
-Data folder contains the datasets used for this project.
-Queries.ipynb is the notebook that contains different PostgreSQL, Neo4j and application queries implemented in python.
-Care Plan Within a Zip Code - Topology.txt contains cypher queries to compute the probability of an insurance covering a zipcode based on it covering nearby zipcodes
-DSC 202 Presentation.pdf contains the slides used for our presentation.
-Create_table_queries.sql contains the create table queries for our relational database.
-Neo4j_relationships.txt contains cypher queries to load the data in Neo4j and creating relationships.
+Files: 
+1. Data folder contains the datasets used for this project.
+2. Queries.ipynb is the notebook that contains different PostgreSQL, Neo4j and application queries implemented in python.
+3. Care Plan Within a Zip Code - Topology.txt contains cypher queries to compute the probability of an insurance covering a zipcode based on it covering nearby zipcodes
+4. DSC 202 Presentation.pdf contains the slides used for our presentation.
+5. Create_table_queries.sql contains the create table queries for our relational database.
+6. Neo4j_relationships.txt contains cypher queries to load the data in Neo4j and creating relationships.
 
 Steps to run the Project:
 1. Download the datasets from data folder.
